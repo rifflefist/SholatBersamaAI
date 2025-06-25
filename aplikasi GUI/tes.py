@@ -1,51 +1,57 @@
-# Import Module
-from tkinter import *
-from tkinter import messagebox
 import tkinter as tk
+from tkinter import messagebox
+from PIL import Image, ImageTk
 
-# create root window
-window = tk.Tk()
-
-window.geometry("500x500")
-
-# root window title and dimension
-window.title("Sholat Bersama AI")
-
-window.state("zoomed")
-
-y_size = window.winfo_screenheight()
-x_size = window.winfo_screenwidth()
-
-color_bg = "lightblue"
-
-frame1 = tk.Frame(window, width=x_size, height=y_size, bg=color_bg, relief=tk.SOLID)
-frame1.pack(padx=0, pady=0)
-
-def start():
-    messagebox.showinfo("informasi", "Camera terbuka")
+def start(event):
+    messagebox.showinfo("Info", "Camera terbuka")
 
 def settings():
-    messagebox.showinfo("informasi", "Settings terbuka")
-    # frame1.destroy()
+    messagebox.showinfo("Info", "Settings terbuka")
 
-def quit():
+def quit_app():
     window.destroy()
+    
+def on_enter(e):
+    e.widget['background'] = '#007acc'  # Warna saat hover
+    e.widget['foreground'] = 'white'
 
-play_button = PhotoImage(file=r"play.png")
+def on_leave(e):
+    e.widget['background'] = 'SystemButtonFace'  # Warna default
+    e.widget['foreground'] = 'black'
+    
+def on_enter_play(e):
+    e.widget['background'] = "#1ca4ff"
+    e.widget['foreground'] = 'white'
 
-btn_size_play = 300
-btn = Button(frame1, text="Button", command=start, width=btn_size_play, height=btn_size_play, image=play_button, bg=color_bg)
+def on_leave_play(e):
+    e.widget['background'] = '#add8e6'
+    e.widget['foreground'] = 'black'
 
-btn.place(x=(x_size-btn_size_play)/2, y=(y_size-btn_size_play)*0.2)
+window = tk.Tk()
+window.title("Sholat Bersama AI")
+# window.state("zoomed")
+window.configure(bg="lightblue")
+window.minsize(800, 600)
 
-btn_size_setting_x = 50
-btn_size_setting_y = 10
-btn1 = Button(frame1, text="Settings", command=settings, width=btn_size_setting_x, height=btn_size_setting_y, bg=color_bg)
-btn1.place(x=(x_size-btn_size_setting_x)*0.25, y=(y_size-btn_size_setting_y)*0.6)
+img = Image.open("assets/images/play.png").resize((300, 300), Image.LANCZOS)
+play_img = ImageTk.PhotoImage(img)
 
-btn1 = Button(frame1, text="Quit", command=quit, width=btn_size_setting_x, height=btn_size_setting_y, bg=color_bg)
-btn1.place(x=(x_size-btn_size_setting_x)*0.6, y=(y_size-btn_size_setting_y)*0.6)
+label = tk.Label(window, image=play_img, bg="#add8e6", borderwidth=0)
+label.place(relx=0.5, rely=0.3, anchor="center")
+label.bind("<Button-1>", start)
+label.bind("<Enter>", on_enter_play)
+label.bind("<Leave>", on_leave_play)
 
-# all widgets will be here
-# Execute Tkinter
+# Tombol Settings (kiri bawah)
+btn_settings = tk.Button(window, text="Settings", font=("Arial", 16), command=settings)
+btn_settings.place(relx=0.3, rely=0.75, anchor="center", width=0.25*1080, relheight=0.1)
+btn_settings.bind("<Enter>", on_enter)
+btn_settings.bind("<Leave>", on_leave)
+
+# Tombol Quit (kanan bawah)
+btn_quit = tk.Button(window, text="Quit", font=("Arial", 16), command=quit_app)
+btn_quit.place(relx=0.7, rely=0.75, anchor="center", width=0.25*1080, relheight=0.1)
+btn_quit.bind("<Enter>", on_enter)
+btn_quit.bind("<Leave>", on_leave)
+
 window.mainloop()
