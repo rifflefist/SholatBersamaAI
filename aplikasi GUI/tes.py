@@ -2,6 +2,15 @@ import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
 
+def center_window(window, width, height):
+    """Memusatkan jendela Tkinter pada layar."""
+    screen_width = window.winfo_screenwidth()
+    screen_height = window.winfo_screenheight()
+    x_coordinate = (screen_width/2) - (width/2)
+    y_coordinate = (screen_height/2) - (height/2)
+    window.geometry(f"{width}x{height}+{int(x_coordinate)}+{int(y_coordinate)}")
+
+
 def start(event):
     messagebox.showinfo("Info", "Camera terbuka")
 
@@ -9,7 +18,13 @@ def settings():
     messagebox.showinfo("Info", "Settings terbuka")
 
 def quit_app():
-    window.destroy()
+    hasil =  messagebox.askyesno("Warning", "Do you want to quit?")
+
+    if hasil:
+        window.destroy()
+    else:
+        pass
+
     
 def on_enter(e):
     e.widget['background'] = '#007acc'  # Warna saat hover
@@ -29,11 +44,15 @@ def on_leave_play(e):
     label_play.config(image=play_img)
     e.widget.config(cursor="")
 
+window_width = 800
+window_height = 600
 window = tk.Tk()
 window.title("Sholat Bersama AI")
+
 # window.state("zoomed")
 window.configure(bg="lightblue")
 window.minsize(800, 600)
+center_window(window, window_width, window_height)
 
 img = Image.open("assets/images/play.png").resize((300, 300), Image.LANCZOS)
 play_img = ImageTk.PhotoImage(img)
