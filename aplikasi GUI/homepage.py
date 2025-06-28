@@ -10,28 +10,37 @@ class Homepage(tk.Frame):
         self.build_ui()
     
     def build_ui(self):
+        
+        screen_width = self.winfo_screenwidth()
+        screen_height = self.winfo_screenheight()
+        
+        font_size = max(10, int(min(screen_width, screen_height) * 0.03))
+        judul = tk.Label(self, text="Sholat Bersama AI", bg="#add8e6", font=("Arial", font_size, "bold"))
+        judul.place(relx=0.01, rely=0.01, anchor="nw")
 
-        img = Image.open("assets/images/play.png").resize((300, 300), Image.LANCZOS)
+        image_width = 300
+        image_height = 300
+        img = Image.open("assets/images/play.png").resize((image_width, image_height), Image.LANCZOS)
         self.play_img = ImageTk.PhotoImage(img)
 
-        img_hover = Image.open("assets/images/play_hover.png").resize((300, 300), Image.LANCZOS)
+        img_hover = Image.open("assets/images/play_hover.png").resize((image_width, image_height), Image.LANCZOS)
         self.play_img_hover = ImageTk.PhotoImage(img_hover)
 
         self.label_play = tk.Label(self, image=self.play_img, bg="#add8e6", borderwidth=0)
-        self.label_play.place(relx=0.5, rely=0.3, anchor="center")
+        self.label_play.place(relx=0.5, rely=0.4, anchor="center")
         self.label_play.bind("<Button-1>", self.start)
         self.label_play.bind("<Enter>", self.on_enter_play)
         self.label_play.bind("<Leave>", self.on_leave_play)
 
         # Tombol Settings (kiri bawah)
         btn_settings = tk.Button(self, text="Settings", font=("Arial", 16), command=self.settings)
-        btn_settings.place(relx=0.3, rely=0.75, anchor="center", width=0.25*1080, relheight=0.1)
+        btn_settings.place(relx=0.3, rely=0.8, anchor="center", width=0.25*1080, relheight=0.1)
         btn_settings.bind("<Enter>", self.on_enter)
         btn_settings.bind("<Leave>", self.on_leave)
 
         # Tombol Quit (kanan bawah)
         btn_quit = tk.Button(self, text="Quit", font=("Arial", 16), command=self.quit_app)
-        btn_quit.place(relx=0.7, rely=0.75, anchor="center", width=0.25*1080, relheight=0.1)
+        btn_quit.place(relx=0.7, rely=0.8, anchor="center", width=0.25*1080, relheight=0.1)
         btn_quit.bind("<Enter>", self.on_enter)
         btn_quit.bind("<Leave>", self.on_leave)
 
