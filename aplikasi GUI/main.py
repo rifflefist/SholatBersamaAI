@@ -1,11 +1,8 @@
 import tkinter as tk
-from tkinter import messagebox
-from PIL import Image, ImageTk
 from homepage import Homepage
 from setting import Setting
 from start import Start
 from assets.style.style import Style
-from functools import partial
 
 window_width = 800
 window_height = 600
@@ -18,6 +15,9 @@ window.minsize(800, 600)
 Style.center_window(window, window_width, window_height)
 
 def show_next(target_frame):
+    
+    global frame_setting
+    
     frame_setting.pack_forget()
     frame_homepage.pack_forget()
     frame_start.pack_forget()
@@ -25,6 +25,8 @@ def show_next(target_frame):
     if target_frame == "homepage":
         frame_homepage.pack(fill="both", expand=True)
     elif target_frame == "setting":
+        frame_setting.destroy()
+        frame_setting = Setting(window, show_next)
         frame_setting.pack(fill="both", expand=True)
     elif target_frame == "start":
         frame_start.pack(fill="both", expand=True)

@@ -1,8 +1,11 @@
 import tkinter as tk
-from tkinter import ttk
 from PIL import Image, ImageTk
+from tkinter import messagebox
 from assets.helper.get_resource import resource_path
 from assets.helper.get_camera import get_camera
+from assets.helper.get_time import get_time
+from assets.helper.save_settings import save_settings
+from assets.helper.save_settings import load_settings
 
 class Setting(tk.Frame):
     def __init__(self, parent, show_next):
@@ -43,7 +46,7 @@ class Setting(tk.Frame):
         kamera_default = self.camera
         self.pilihan = tk.StringVar(value=kamera_list[kamera_default])
         
-        self.dropdown_kamera = tk.Label(self, text="▼  " + self.pilihan.get(), font=("Arial", 14, "bold"), relief="solid", anchor="w")
+        self.dropdown_kamera = tk.Label(self, text="▼  " + self.pilihan.get(), font=("Arial", 14, "bold"), anchor="w")
         self.dropdown_kamera.place(relx=0.17, rely=0.27,  relwidth=0.7, relheight=0.05, anchor="w")
         self.dropdown_kamera.bind("<Button-1>", lambda e: self.toggle_dropdown())
         self.dropdown_kamera.bind("<Enter>", self.hover)
@@ -64,11 +67,69 @@ class Setting(tk.Frame):
         
         judul3 = tk.Label(self, text="Time", bg="#add8e6", font=("Arial", title_size, "bold"))
         judul3.place(relx=0.14, rely=0.6, anchor="w")
+        
+        self.set_auto = tk.IntVar()  # Untuk menyimpan status checkbox (0 atau 1)
 
+        checkbox = tk.Checkbutton(self, text="Set Automatically", bg="#add8e6",font=("Arial", 12, "bold"), variable=self.set_auto, command=self.toggle_button_set_auto)
+        checkbox.place(relx=0.17, rely=0.67, anchor="w", relheight=0.05)
+        
+        label_time_set = tk.Label(self, text="Set Manual", bg="#add8e6", font=("Arial", 12, "bold"))
+        label_time_set.place(relx=0.17, rely=0.74, anchor="w")
+        
+        jam, menit = self.time_setting.split(":")
+        self.pilihan_hour = tk.StringVar(value=jam)
+        
+        self.dropdown_hour = tk.Label(self, text=""+self.pilihan_hour.get(), font=("Arial", 14, "bold"), anchor="center")
+        self.dropdown_hour.place(relx=0.3, rely=0.74, anchor="w")
+        self.dropdown_hour.bind("<Button-1>", lambda e: self.toggle_dropdown_hour())
+        self.dropdown_hour.config(cursor="hand2")
+        
+        self.listbox_hour = tk.Listbox(self, font=("Arial", 12, "bold"))
+        for i in range(0, 24):
+            if i < 10:
+                i = "0"+str(i)
+            else:
+                i = str(i)
+            self.listbox_hour.insert(tk.END, str(i))
+        
+        self.listbox_hour.bind("<<ListboxSelect>>", self.pilih_hour)
+        self.listbox_hour.bind("<Enter>", self.hover)
+        
+        scroll_hour = tk.Scrollbar(self, orient="vertical", command=self.listbox_hour.yview)
+        self.listbox_hour.config(yscrollcommand=scroll_hour.set)
+        
+        pemisah_waktu = tk.Label(self, text=":", bg="#add8e6", font=("Arial", 16, "bold"))
+        pemisah_waktu.place(relx=0.335, rely=0.74, anchor="w")
+        
+        self.pilihan_min = tk.StringVar(value=menit)
+        
+        self.dropdown_min = tk.Label(self, text=""+self.pilihan_min.get(), font=("Arial", 14, "bold"), anchor="center")
+        self.dropdown_min.place(relx=0.36, rely=0.74, anchor="w")
+        self.dropdown_min.bind("<Button-1>", lambda e: self.toggle_dropdown_min())
+        self.dropdown_min.config(cursor="hand2")
+        
+        self.listbox_min = tk.Listbox(self, font=("Arial", 12, "bold"))
+        for i in range(0, 60):
+            if i < 10:
+                i = "0"+str(i)
+            else:
+                i = str(i)
+            self.listbox_min.insert(tk.END, str(i))
+        
+        self.listbox_min.bind("<<ListboxSelect>>", self.pilih_min)
+        self.listbox_min.bind("<Enter>", self.hover)
+        
+        scroll_min = tk.Scrollbar(self, orient="vertical", command=self.listbox_min.yview)
+        self.listbox_min.config(yscrollcommand=scroll_min.set)
+        
+        my_label = tk.Label(self, text="github.com/rifflefist", font=("Arial", 10, "bold"), bg="#add8e6")
+        my_label.place(relx=0.99, rely=0.99, anchor="se")
+
+    settings = load_settings()
     # Kalau udah ada settings.ini diubah
-    camera = 0
-    orientation = 0
-    time = 0
+    camera = settings["camera"]
+    orientation = settings["orientation"]
+    time = settings["time"]
     
     @property
     def camera_setting(self):
@@ -91,10 +152,14 @@ class Setting(tk.Frame):
         return self.time
     
     @time_setting.setter
-    def time_setting(waktu, self):
+    def time_setting(self, waktu):
         self.time = waktu
     
     def back(self, e):
+        if self.camera_setting != self.settings["camera"] or self.orientation_setting != self.settings["orientation"] or self.time_setting != self.settings["time"]:
+            hasil =  messagebox.askyesno("Warning", "Do you want to save the changes?")
+            if hasil:
+                save_settings(self.camera_setting, self.orientation_setting, self.time_setting)
         self.show_next("homepage")
 
     def on_enter(self, e):
@@ -116,6 +181,26 @@ class Setting(tk.Frame):
             self.listbox.place(relx=0.17, rely=0.29, relwidth=0.7, relheight=0.038*self.count_kamera)
             self.listbox.lift()
             self.after(100, lambda: self.bind_all("<Button-1>", self.on_global_click))
+            
+    def toggle_dropdown_hour(self):
+        if not self.set_auto.get():
+            if self.listbox_hour.winfo_ismapped():
+                self.listbox_hour.place_forget()
+                self.unbind_all("<Button-1>")
+            else:
+                self.listbox_hour.place(relx=0.3, rely=0.76, anchor="nw", relwidth=0.04, relheight=0.2)
+                self.listbox_hour.lift()
+                self.after(100, lambda: self.bind_all("<Button-1>", self.on_global_click_hour))
+    
+    def toggle_dropdown_min(self):
+        if not self.set_auto.get():
+            if self.listbox_min.winfo_ismapped():
+                self.listbox_min.place_forget()
+                self.unbind_all("<Button-1>")
+            else:
+                self.listbox_min.place(relx=0.36, rely=0.76, anchor="nw", relwidth=0.04, relheight=0.2)
+                self.listbox_min.lift()
+                self.after(100, lambda: self.bind_all("<Button-1>", self.on_global_click_min))
 
     def on_global_click(self, event):
         widget = event.widget
@@ -123,12 +208,43 @@ class Setting(tk.Frame):
             self.listbox.place_forget()
             self.unbind_all("<Button-1>")
     
+    def on_global_click_hour(self, event):
+        widget = event.widget
+        if widget != self.listbox_hour and widget != self.dropdown_hour:
+            self.listbox_hour.place_forget()
+            self.unbind_all("<Button-1>")
+    
+    def on_global_click_min(self, event):
+        widget = event.widget
+        if widget != self.listbox_min and widget != self.dropdown_min:
+            self.listbox_min.place_forget()
+            self.unbind_all("<Button-1>")
+    
     def pilih(self, e):
-        pilihan = self.listbox.get(self.listbox.curselection())
-        self.pilihan.set(pilihan)
-        self.dropdown_kamera.config(text="▼  " + pilihan)
-        self.listbox.place_forget()
-        self.camera_setting = [k for k, v in self.kamera_dict.items() if v == pilihan][0]
+        if self.listbox.curselection():
+            pilihan = self.listbox.get(self.listbox.curselection())
+            self.pilihan.set(pilihan)
+            self.dropdown_kamera.config(text="▼  " + pilihan)
+            self.listbox.place_forget()
+            self.camera_setting = [k for k, v in self.kamera_dict.items() if v == pilihan][0]
+    
+    def pilih_hour(self, e):
+        if self.listbox_hour.curselection():
+            pilihan_hour = self.listbox_hour.get(self.listbox_hour.curselection())
+            self.pilihan_hour.set(pilihan_hour)
+            _, min = self.time_setting.split(":")
+            self.time_setting = f"{pilihan_hour}:{min}"
+            self.dropdown_hour.config(text=pilihan_hour)
+            self.listbox_hour.place_forget()
+    
+    def pilih_min(self, e):
+        if self.listbox_min.curselection():
+            pilihan_min = self.listbox_min.get(self.listbox_min.curselection())
+            self.pilihan_min.set(pilihan_min)
+            hour, _ = self.time_setting.split(":")
+            self.time_setting = f"{hour}:{pilihan_min}"
+            self.dropdown_min.config(text=pilihan_min)
+            self.listbox_min.place_forget()
     
     def buat_radio_canvas(self):
         opsi = [("Landscape", 0), ("Portrait", 1)]
@@ -166,3 +282,13 @@ class Setting(tk.Frame):
         # Set default aktif
         self.orientation_var.set(self.orientation)
         self.orientation_items[self.orientation][1].itemconfig(self.orientation_items[self.orientation][2], fill="black")
+    
+    def toggle_button_set_auto(self):
+        hour, min = get_time()
+        self.time_setting = f"{hour}:{min}"
+        if self.set_auto.get():
+            self.dropdown_hour.config(text=hour, state="disabled", cursor="arrow")
+            self.dropdown_min.config(text=min, state="disabled", cursor="arrow")
+        else:
+            self.dropdown_hour.config(state="normal", cursor="hand2")
+            self.dropdown_min.config(state="normal", cursor="hand2")

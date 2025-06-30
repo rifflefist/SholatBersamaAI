@@ -44,6 +44,9 @@ class Homepage(tk.Frame):
         btn_quit.place(relx=0.7, rely=0.8, anchor="center", width=0.25*1080, relheight=0.1)
         btn_quit.bind("<Enter>", self.on_enter)
         btn_quit.bind("<Leave>", self.on_leave)
+        
+        my_label = tk.Label(self, text="github.com/rifflefist", font=("Arial", 10, "bold"), bg="#add8e6")
+        my_label.place(relx=0.99, rely=0.99, anchor="se")
 
 
     def start(self, e):
