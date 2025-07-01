@@ -7,17 +7,15 @@ from assets.helper.save_settings import load_settings
 from assets.helper.get_time import get_salat_time
 
 class Start(tk.Frame):
-    my_bg = "lighblue"
 
     def __init__(self, parent, show_next):
         super().__init__(parent)
-        self.show_next = show_next  # Disimpan agar bisa dipanggil nanti
-        self.configure(bg=self.my_bg)
+        self.show_next = show_next
+        self.configure(bg="lightblue")
         self.build_ui()
 
     def build_ui(self):
-        screen_width = self.winfo_screenwidth()
-        screen_height = self.winfo_screenheight()
+        my_bg = "lightblue"
         
         image_width = 75
         image_height = 50
@@ -30,21 +28,21 @@ class Start(tk.Frame):
         img = Image.open(resource_path("assets/images/arrow_hover.png")).resize((image_width, image_height), Image.LANCZOS)
         self.back_hover_img = ImageTk.PhotoImage(img)
         
-        self.label_back = tk.Label(self, image=self.back_img, bg=self.my_bg, borderwidth=0)
+        self.label_back = tk.Label(self, image=self.back_img, bg=my_bg, borderwidth=0)
         self.label_back.place(relx=0.01, rely=0.01, anchor="nw")
         self.label_back.bind("<Button-1>", self.back)
         self.label_back.bind("<Enter>", self.on_enter)
         self.label_back.bind("<Leave>", self.on_leave)
         
-        jam_atas_frame = tk.Frame(self, bg=self.my_bg)
+        jam_atas_frame = tk.Frame(self, bg=my_bg)
         jam_atas_frame.place(relx=1, rely=0.0, anchor="ne")
 
-        jam_frame = tk.Frame(jam_atas_frame, bg=self.my_bg)
-        jam_frame.place(relx=1.0, rely=0.0, anchor="ne")
+        jam_frame = tk.Frame(jam_atas_frame, bg=my_bg)
+        jam_frame.pack(side="top")
         
-        self.label_hour = tk.Label(jam_frame, text="--", font=("Arial", 40, "bold"), bg=self.my_bg)
-        self.label_colon = tk.Label(jam_frame, text=":", font=("Arial", 40, "bold"), bg=self.my_bg)
-        self.label_minute = tk.Label(jam_frame, text="--", font=("Arial", 40, "bold"), bg=self.my_bg)
+        self.label_hour = tk.Label(jam_frame, text="--", font=("Arial", 20, "bold"), bg=my_bg)
+        self.label_colon = tk.Label(jam_frame, text=":", font=("Arial", 20, "bold"), bg=my_bg)
+        self.label_minute = tk.Label(jam_frame, text="--", font=("Arial", 20, "bold"), bg=my_bg)
         
         self.start_time = datetime.strptime(settings["time"], "%H:%M")
         self.run_start = datetime.now()
@@ -56,15 +54,14 @@ class Start(tk.Frame):
         self.visible = True
         self.update_time()
         self.blink_colon()
-        
-        font_size = max(10, int(min(screen_width, screen_height) * 0.03))
-        judul = tk.Label(jam_atas_frame, text=get_salat_time(settings["time"]), bg=self.my_bg, font=("Arial", font_size, "bold"))
-        judul.pack(side="left")
+    
+        judul = tk.Label(jam_atas_frame, text=get_salat_time(settings["time"]), bg=my_bg, font=("Arial", 28, "bold"))
+        judul.pack(side="right")
         
         frame_mid = tk.Frame(self, bg="black")
-        frame_mid.place(relx=0.5, rely=0.48, relwidth=0.65, relheight=0.8, anchor="center")
+        frame_mid.place(relx=0.5, rely=0.48, relwidth=0.55, relheight=0.8, anchor="center")
         
-        frame_set = tk.Frame(self, bg=self.my_bg)
+        frame_set = tk.Frame(self, bg=my_bg)
         frame_set.place(relx=0.2, rely=0.92, relheight=0.2, relwidth=0.6, anchor="nw")
 
         frame_set.rowconfigure(0, weight=0)
@@ -73,7 +70,7 @@ class Start(tk.Frame):
         frame_set.columnconfigure(2, weight=2)
         frame_set.columnconfigure(3, weight=1) 
         
-        spacer = tk.Label(frame_set, bg=self.my_bg)
+        spacer = tk.Label(frame_set, bg=my_bg)
         spacer.grid(row=0, column=0, sticky="nsew")
 
         kamera_list = get_camera()
@@ -112,11 +109,31 @@ class Start(tk.Frame):
         self.listbox_orientation.bind("<<ListboxSelect>>", self.pilih_orientation)
         self.listbox_orientation.bind("<Enter>", self.hover)
 
-        spacer1 = tk.Label(frame_set, bg=self.my_bg)
+        spacer1 = tk.Label(frame_set, bg=my_bg)
         spacer1.grid(row=0, column=3, sticky="nsew")
+        
+        frame_log = tk.Frame(self)
+        frame_log.place(relx=0, rely=1, relwidth=0.2, relheight=0.04, anchor="sw")
+        
+        self.dropdown_log = tk.Label(frame_log, text="▲  Open Log", bg="black", fg="white", font=("Arial", 16, "bold"))
+        self.dropdown_log.pack(side="bottom", fill="x")
+        self.dropdown_log.bind("<Button-1>", lambda e: self.toggle_dropdown_log())
+        self.dropdown_log.bind("<Enter>", self.hover)
+        
+        self.scrollbar = tk.Scrollbar(self)
+        
+        self.logbox = tk.Text(self, wrap="char", yscrollcommand=self.scrollbar.set, font=("Arial", 10, "bold"), fg="white", bg="black")
+        self.logbox.bind("<Button-1>", lambda e: "break")
+        self.logbox.bind("<<ListboxSelect>>", lambda e: "break")
+        self.logbox.tag_configure("indented", lmargin1=5, lmargin2=117)
+        
+        self.scrollbar.config(command=self.logbox.yview)
+
+        btn = tk.Button(self, text="Tambah Log", command=lambda: self.log("Ini adalah log yang sangat panjang sehingga baris ini akan terwrap secara otomatis dan baris keduanya akan tampak menjorok ke kanan. Ini adalah log yang sangat panjang sehingga baris ini akan terwrap secara otomatis dan baris keduanya akan tampak menjorok ke kanan.\n\n"))
+        btn.place(relx=0.5, rely=0.85, anchor="center")
+        
     
     settings = load_settings()
-    # Kalau udah ada settings.ini diubah
     camera = settings["camera"]
     orientation = settings["orientation"]
     time = settings["time"]
@@ -136,7 +153,6 @@ class Start(tk.Frame):
         e.widget.config(cursor="")
     
     def update_time(self):
-        # Hitung waktu berjalan sejak app start
         elapsed = datetime.now() - self.run_start
         current_time = self.start_time + elapsed
 
@@ -158,7 +174,7 @@ class Start(tk.Frame):
             self.listbox.place_forget()
             self.unbind_all("<Button-1>")
         else:
-            self.listbox.place(relx=0.3, rely=0.92, relwidth=0.18, anchor="sw")
+            self.listbox.place(relx=0.27, rely=0.92, relwidth=0.27, anchor="sw")
             self.listbox.lift()
             self.after(100, lambda: self.bind_all("<Button-1>", self.on_global_click))
     
@@ -196,3 +212,23 @@ class Start(tk.Frame):
             self.pilihan_orientation.set(pilihan)
             self.dropdown_orientation.config(text="▲  " + pilihan)
             self.listbox_orientation.place_forget()
+    
+    def toggle_dropdown_log(self):
+        if self.logbox.winfo_ismapped():
+            self.logbox.place_forget()
+            self.unbind_all("<Button-1>")
+        else:
+            self.logbox.place(relx=0, rely=0.96, relwidth=0.5, relheight=0.8, anchor="sw")
+            self.logbox.lift()
+            self.after(100, lambda: self.bind_all("<Button-1>", self.on_global_click_log))
+    
+    def on_global_click_log(self, event):
+        widget = event.widget
+        if widget != self.dropdown_log:
+            self.logbox.place_forget()
+            self.unbind_all("<Button-1>")
+    
+    def log(self, text):
+        self.logbox.insert(tk.END, f"[{datetime.now().strftime("%d-%m-%Y %H:%M")}] {text}",  "indented")
+        self.logbox.yview_moveto(1.0)
+    

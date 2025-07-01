@@ -35,7 +35,10 @@ def load_settings():
 
     settings = config["Settings"]
     
-    time_dynamic = hitung_waktu_baru(settings.get("time"), settings.get("time_saved"))
+    if settings.get("time") == "auto":
+        time_dynamic = datetime.now().strftime("%H:%M")
+    else:
+        time_dynamic = hitung_waktu_baru(settings.get("time"), settings.get("time_saved"))
     
     return {
         "camera": int(settings.get("camera", 0)),
