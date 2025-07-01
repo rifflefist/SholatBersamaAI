@@ -16,8 +16,8 @@ class Start(tk.Frame):
         screen_width = self.winfo_screenwidth()
         screen_height = self.winfo_screenheight()
         
-        image_width = 100
-        image_height = 75
+        image_width = 75
+        image_height = 50
         
         settings = load_settings()
         
@@ -54,6 +54,18 @@ class Start(tk.Frame):
         font_size = max(10, int(min(screen_width, screen_height) * 0.03))
         judul = tk.Label(self, text=get_salat_time(settings["time"]), bg="#add8e6", font=("Arial", font_size, "bold"))
         judul.place(relx=0.99, rely=0.12, anchor="ne")
+        
+        frame_mid = tk.Frame(self, bg="blue")
+        frame_mid.place(relx=0.5, rely=0.48, relwidth="0.7", relheight="0.8", anchor="center")
+        
+        frame_cam = tk.Frame(frame_mid, bg="black")
+        frame_cam.grid(row=0, column=0, sticky="nw")
+        
+        label_contoh = tk.Label(frame_cam, text="Test", font=("Arial", 16, "bold"))
+        label_contoh.grid(row=0, column=0)
+        
+        frame_set = tk.Frame(frame_mid, bg="white")
+        frame_set.grid(row=1, column=0, sticky="nw")
     
     def back(self, e):
         self.show_next("homepage")

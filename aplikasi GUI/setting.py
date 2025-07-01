@@ -22,8 +22,8 @@ class Setting(tk.Frame):
         judul = tk.Label(self, text="Settings", bg="#add8e6", font=("Arial", font_size, "bold"))
         judul.place(relx=0.01, rely=0.01, anchor="nw")
         
-        image_width = 100
-        image_height = 75
+        image_width = 75
+        image_height = 50
         
         img = Image.open(resource_path("assets/images/arrow.png")).resize((image_width, image_height), Image.LANCZOS)
         self.back_img = ImageTk.PhotoImage(img)
@@ -219,7 +219,7 @@ class Setting(tk.Frame):
             self.listbox.place_forget()
             self.unbind_all("<Button-1>")
         else:
-            self.listbox.place(relx=0.17, rely=0.29, relwidth=0.7, relheight=0.038*self.count_kamera)
+            self.listbox.place(relx=0.17, rely=0.29, relwidth=0.7, height=20*self.count_kamera)
             self.listbox.lift()
             self.after(100, lambda: self.bind_all("<Button-1>", self.on_global_click))
             
