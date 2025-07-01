@@ -219,7 +219,7 @@ class Setting(tk.Frame):
             self.listbox.place_forget()
             self.unbind_all("<Button-1>")
         else:
-            self.listbox.place(relx=0.17, rely=0.29, relwidth=0.7, relheight=0.038*self.count_kamera)
+            self.listbox.place(relx=0.17, rely=0.29, relwidth=0.7, height=20*self.count_kamera)
             self.listbox.lift()
             self.after(100, lambda: self.bind_all("<Button-1>", self.on_global_click))
             
