@@ -22,8 +22,8 @@ class Setting(tk.Frame):
         judul = tk.Label(self, text="Settings", bg="#add8e6", font=("Arial", font_size, "bold"))
         judul.place(relx=0.01, rely=0.01, anchor="nw")
         
-        image_width = 100
-        image_height = 75
+        image_width = 75
+        image_height = 50
         
         img = Image.open(resource_path("assets/images/arrow.png")).resize((image_width, image_height), Image.LANCZOS)
         self.back_img = ImageTk.PhotoImage(img)
