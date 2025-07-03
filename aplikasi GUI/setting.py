@@ -167,7 +167,6 @@ class Setting(tk.Frame):
         my_label.place(relx=0.99, rely=0.99, anchor="se")
 
     settings = load_settings()
-    # Kalau udah ada settings.ini diubah
     camera = settings["camera"]
     orientation = settings["orientation"]
     time = settings["time"]

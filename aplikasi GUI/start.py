@@ -1,4 +1,5 @@
 import tkinter as tk
+import cv2
 from PIL import Image, ImageTk
 from datetime import datetime
 from assets.helper.get_resource import resource_path
@@ -12,6 +13,7 @@ class Start(tk.Frame):
         super().__init__(parent)
         self.show_next = show_next
         self.configure(bg="lightblue")
+        self.cap = None
         self.build_ui()
 
     def build_ui(self):
@@ -54,16 +56,18 @@ class Start(tk.Frame):
         self.visible = True
         self.update_time()
         self.blink_colon()
-    
-        judul = tk.Label(jam_atas_frame, text=get_salat_time(settings["time"]), bg=my_bg, font=("Arial", 28, "bold"))
+
+        judul = tk.Label(jam_atas_frame, text=get_salat_time(settings["time"]), bg=my_bg, font=("Arial", 14, "bold"))
         judul.pack(side="right")
         
-        frame_mid = tk.Frame(self, bg="black")
-        frame_mid.place(relx=0.5, rely=0.48, relwidth=0.55, relheight=0.8, anchor="center")
+        self.frame_mid = tk.Frame(self, bg="black")
+        self.frame_mid.place(relx=0.5, rely=0.48, relwidth=0.55, relheight=0.8, anchor="center")
+        
+        self.cam = tk.Label(self.frame_mid)
         
         frame_set = tk.Frame(self, bg=my_bg)
         frame_set.place(relx=0.2, rely=0.92, relheight=0.2, relwidth=0.6, anchor="nw")
-
+        
         frame_set.rowconfigure(0, weight=0)
         frame_set.columnconfigure(0, weight=1)
         frame_set.columnconfigure(1, weight=2)
@@ -72,31 +76,31 @@ class Start(tk.Frame):
         
         spacer = tk.Label(frame_set, bg=my_bg)
         spacer.grid(row=0, column=0, sticky="nsew")
-
+        
         kamera_list = get_camera()
         
         kamera_default = self.camera
         self.pilihan = tk.StringVar(value=kamera_list[kamera_default])
-
+        
         self.dropdown_kamera = tk.Label(frame_set, text="▲  " + self.pilihan.get(), font=("Arial", 14, "bold"), anchor="w", borderwidth=2, relief="solid")
         self.dropdown_kamera.grid(row=0, column=1, sticky="nsew")
         self.dropdown_kamera.bind("<Button-1>", lambda e: self.toggle_dropdown())
         self.dropdown_kamera.bind("<Enter>", self.hover)
         
         self.count_kamera = len(kamera_list)
+        self.kamera_dict = {i: v for i, v in enumerate(kamera_list)}
         self.listbox = tk.Listbox(self, font=("Arial", 12, "bold"), height=self.count_kamera)
         for item in kamera_list:
             self.listbox.insert(tk.END, item)
-
+        
         self.listbox.bind("<<ListboxSelect>>", self.pilih)
         self.listbox.bind("<Enter>", self.hover)
-
+        
         orientation = ["Landscape", "Portrait"]
-
         orientation_set = settings["orientation"]
-
+        self.orientation_dict = {i: v for i, v in enumerate(orientation)}
         self.pilihan_orientation = tk.StringVar(value=orientation[orientation_set])
-
+        
         self.dropdown_orientation = tk.Label(frame_set, text="▲  " + self.pilihan_orientation.get(), font=("Arial", 14, "bold"), anchor="w", borderwidth=2, relief="solid")
         self.dropdown_orientation.grid(row=0, column=2, sticky="nsew")
         self.dropdown_orientation.bind("<Button-1>", lambda e: self.toggle_dropdown_orientation())
@@ -105,10 +109,10 @@ class Start(tk.Frame):
         self.listbox_orientation = tk.Listbox(self, font=("Arial", 12, "bold"), height=len(orientation))
         for item1 in orientation:
             self.listbox_orientation.insert(tk.END, item1)
-
+        
         self.listbox_orientation.bind("<<ListboxSelect>>", self.pilih_orientation)
         self.listbox_orientation.bind("<Enter>", self.hover)
-
+        
         spacer1 = tk.Label(frame_set, bg=my_bg)
         spacer1.grid(row=0, column=3, sticky="nsew")
         
@@ -128,26 +132,43 @@ class Start(tk.Frame):
         self.logbox.tag_configure("indented", lmargin1=5, lmargin2=117)
         
         self.scrollbar.config(command=self.logbox.yview)
-
-        btn = tk.Button(self, text="Tambah Log", command=lambda: self.log("Ini adalah log yang sangat panjang sehingga baris ini akan terwrap secara otomatis dan baris keduanya akan tampak menjorok ke kanan. Ini adalah log yang sangat panjang sehingga baris ini akan terwrap secara otomatis dan baris keduanya akan tampak menjorok ke kanan.\n\n"))
-        btn.place(relx=0.5, rely=0.85, anchor="center")
         
-    
+        self.update_frame()
+
+
     settings = load_settings()
     camera = settings["camera"]
     orientation = settings["orientation"]
     time = settings["time"]
+    
+    @property
+    def camera_setting(self):
+        return self.camera
+    
+    @camera_setting.setter
+    def camera_setting(self, index):
+        self.camera = index
+    
+    @property
+    def orientation_setting(self):
+        return self.orientation
+    
+    @orientation_setting.setter
+    def orientation_setting(self, index):
+        self.orientation = index
 
     def back(self, e):
         self.show_next("homepage")
-    
+        self.log("Kamera dimatikan")
+        self.cap.release()
+
     def on_enter(self, e):
         self.label_back.config(image=self.back_hover_img)
         e.widget.config(cursor="hand2")
-        
+
     def hover(self, e):
         e.widget.config(cursor="hand2")
-
+    
     def on_leave(self, e):
         self.label_back.config(image=self.back_img)
         e.widget.config(cursor="")
@@ -187,9 +208,14 @@ class Start(tk.Frame):
     def pilih(self, e):
         if self.listbox.curselection():
             pilihan = self.listbox.get(self.listbox.curselection())
+            camera = [k for k, v in self.kamera_dict.items() if v == pilihan][0]
             self.pilihan.set(pilihan)
             self.dropdown_kamera.config(text="▲  " + pilihan)
             self.listbox.place_forget()
+            self.camera_setting = camera
+            self.log(f"Kamera berganti menjadi {pilihan}")
+            self.stop_camera()
+            self.start_camera(camera, False)
     
     def toggle_dropdown_orientation(self):
         if self.listbox_orientation.winfo_ismapped():
@@ -209,9 +235,13 @@ class Start(tk.Frame):
     def pilih_orientation(self, e):
         if self.listbox_orientation.curselection():
             pilihan = self.listbox_orientation.get(self.listbox_orientation.curselection())
+            orientation = [k for k, v in self.orientation_dict.items() if v == pilihan][0]
             self.pilihan_orientation.set(pilihan)
             self.dropdown_orientation.config(text="▲  " + pilihan)
             self.listbox_orientation.place_forget()
+            self.orientation_setting = orientation
+            self.stop_camera()
+            self.start_camera(self.camera_setting, False)
     
     def toggle_dropdown_log(self):
         if self.logbox.winfo_ismapped():
@@ -229,6 +259,63 @@ class Start(tk.Frame):
             self.unbind_all("<Button-1>")
     
     def log(self, text):
-        self.logbox.insert(tk.END, f"[{datetime.now().strftime("%d-%m-%Y %H:%M")}] {text}",  "indented")
+        file_log = resource_path("assets/log.txt")
+    
+        log = f"[{datetime.now().strftime("%d-%m-%Y %H:%M")}] {text}\n"
+        
+        with open(file_log, mode="a") as file:
+            file.write(log)
+            
+        self.logbox.insert(tk.END, log,  "indented")
+        self.logbox.insert(tk.END, "\n",  "indented")
         self.logbox.yview_moveto(1.0)
     
+    def start_camera(self, camera, first_time):
+        if first_time:
+            self.log("Kamera dihidupkan")
+        
+        print(type(self.orientation_setting))
+            
+        if self.orientation_setting == 0:
+            self.cam.place(relx=0.5, rely=0.5, anchor="center", relwidth=1, relheight=0.75)
+        else:
+            self.cam.place(relx=0.5, rely=0.5, anchor="center", relwidth=0.75, relheight=1)
+        
+        self.cap = cv2.VideoCapture(camera)
+        self.running = True
+        self.update_frame()
+
+    def stop_camera(self):
+        if self.cap.isOpened():
+            self.cap.release()
+    
+    def update_frame(self):
+        if not self.cap:
+            return
+
+        ret, frame = self.cap.read()
+        if ret:
+            frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+            
+            # Ambil ukuran aktual dari self.cam
+            cam_width = self.cam.winfo_width()
+            cam_height = self.cam.winfo_height()
+
+            # Jika ukuran belum terbaca (di awal biasanya 1x1), beri default
+            if cam_width <= 1 or cam_height <= 1:
+                cam_width, cam_height = 640, 480
+
+            # Resize frame ke ukuran tampilan
+            resized_frame = cv2.resize(frame, (cam_width, cam_height))
+
+            img = Image.fromarray(resized_frame)
+            imgtk = ImageTk.PhotoImage(image=img)
+
+            self.cam.imgtk = imgtk
+            self.cam.config(image=imgtk)
+
+        self.cam.after(167, self.update_frame) # 60fps
+    
+    def on_close(self):
+        self.log("Kamera dimatikan")
+        self.cap.release()
