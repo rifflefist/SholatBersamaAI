@@ -1,0 +1,197 @@
+[03-07-2025 11:10] Kamera dihidupkan
+[03-07-2025 11:11] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 11:11] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 11:11] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 11:11] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 11:11] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 11:12] Kamera dimatikan
+[03-07-2025 13:07] Kamera dihidupkan
+[03-07-2025 13:08] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:08] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:08] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:08] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:08] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:08] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:08] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:08] Kamera dimatikan
+[03-07-2025 13:11] Kamera dihidupkan
+[03-07-2025 13:11] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:11] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:12] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:12] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:12] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:12] Kamera dihidupkan
+[03-07-2025 13:12] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:12] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:14] Kamera dihidupkan
+[03-07-2025 13:14] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:14] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:15] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:15] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:16] Kamera dihidupkan
+[03-07-2025 13:16] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:16] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:18] Kamera dihidupkan
+[03-07-2025 13:18] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:18] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:18] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:18] Kamera dihidupkan
+[03-07-2025 13:19] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:19] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:19] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:19] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:19] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:19] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:19] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:32] Kamera dihidupkan
+[03-07-2025 13:32] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:32] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:32] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:32] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:34] Kamera dihidupkan
+[03-07-2025 13:34] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:34] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:34] Kamera dihidupkan
+[03-07-2025 13:34] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:34] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:35] Kamera dihidupkan
+[03-07-2025 13:35] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:35] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:35] Kamera dihidupkan
+[03-07-2025 13:36] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:36] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:36] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:36] Kamera dihidupkan
+[03-07-2025 13:36] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:36] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:37] Kamera dihidupkan
+[03-07-2025 13:37] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:37] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:38] Kamera dihidupkan
+[03-07-2025 13:38] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:38] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:39] Kamera dihidupkan
+[03-07-2025 13:39] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:39] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:39] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:41] Kamera dihidupkan
+[03-07-2025 13:41] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:41] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 13:41] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 13:42] Kamera dihidupkan
+[03-07-2025 13:54] Kamera dihidupkan
+[03-07-2025 13:56] Kamera dihidupkan
+[03-07-2025 13:57] Kamera dihidupkan
+[03-07-2025 13:58] Kamera dihidupkan
+[03-07-2025 14:08] Kamera dihidupkan
+[03-07-2025 14:08] Kamera dihidupkan
+[03-07-2025 14:09] Kamera dihidupkan
+[03-07-2025 14:11] Kamera dihidupkan
+[03-07-2025 14:15] Kamera dihidupkan
+[03-07-2025 14:17] Kamera dihidupkan
+[03-07-2025 14:18] Kamera dihidupkan
+[03-07-2025 14:22] Kamera dihidupkan
+[03-07-2025 14:23] Kamera dihidupkan
+[03-07-2025 14:24] Kamera dihidupkan
+[03-07-2025 14:28] Kamera dihidupkan
+[03-07-2025 14:29] Kamera dihidupkan
+[03-07-2025 14:33] Kamera dihidupkan
+[03-07-2025 14:36] Kamera dihidupkan
+[03-07-2025 14:37] Kamera dihidupkan
+[03-07-2025 14:39] Kamera dihidupkan
+[03-07-2025 14:42] Kamera dihidupkan
+[03-07-2025 14:44] Kamera dihidupkan
+[03-07-2025 14:46] Kamera dihidupkan
+[03-07-2025 14:50] Kamera dihidupkan
+[03-07-2025 14:50] Kamera berganti menjadi Iriun Webcam
+[03-07-2025 14:50] Kamera berganti menjadi HP TrueVision HD Camera
+[03-07-2025 14:51] Kamera dihidupkan
+[03-07-2025 14:53] Kamera dimatikan
+[03-07-2025 14:54] Kamera dihidupkan
+[03-07-2025 14:54] Kamera dimatikan
+[03-07-2025 14:56] Kamera dihidupkan
+[03-07-2025 14:57] Kamera dimatikan
+[03-07-2025 14:58] Kamera dihidupkan
+[03-07-2025 14:59] Kamera dihidupkan
+[03-07-2025 15:01] Kamera dihidupkan
+[03-07-2025 15:01] Kamera dimatikan
+[03-07-2025 15:02] Kamera dihidupkan
+[03-07-2025 15:04] Kamera dihidupkan
+[03-07-2025 15:04] Kamera dihidupkan
+[03-07-2025 15:05] Kamera dimatikan
+[03-07-2025 15:08] Kamera dihidupkan
+[03-07-2025 20:46] Kamera dihidupkan
+[03-07-2025 20:54] Kamera dihidupkan
+[03-07-2025 20:55] Kamera dimatikan
+[03-07-2025 20:55] Kamera dihidupkan
+[03-07-2025 20:57] Kamera dihidupkan
+[03-07-2025 20:59] Kamera dihidupkan
+[03-07-2025 20:59] Kamera dimatikan
+[03-07-2025 21:02] Kamera dihidupkan
+[03-07-2025 21:03] Kamera dihidupkan
+[03-07-2025 21:07] Kamera dihidupkan
+[03-07-2025 21:09] Kamera dimatikan
+[03-07-2025 21:10] Kamera dihidupkan
+[03-07-2025 21:11] Kamera dimatikan
+[03-07-2025 21:17] Kamera dihidupkan
+[03-07-2025 21:18] Kamera dihidupkan
+[03-07-2025 21:21] Kamera dihidupkan
+[03-07-2025 21:29] Kamera dihidupkan
+[03-07-2025 21:30] Kamera dihidupkan
+[03-07-2025 21:34] Kamera dihidupkan
+[03-07-2025 21:34] Kamera dimatikan
+[03-07-2025 21:36] Kamera dihidupkan
+[03-07-2025 21:36] Kamera berganti menjadi OBS Virtual Camera
+[03-07-2025 21:36] Kamera berganti menjadi Iriun Webcam
+[03-07-2025 21:37] Kamera dihidupkan
+[03-07-2025 21:40] Kamera dihidupkan
+[03-07-2025 21:43] Kamera dihidupkan
+[03-07-2025 21:44] Kamera dihidupkan
+[03-07-2025 21:46] Kamera dihidupkan
+[03-07-2025 21:48] Kamera dihidupkan
+[03-07-2025 21:49] Kamera dihidupkan
+[03-07-2025 21:50] Kamera dihidupkan
+[03-07-2025 21:53] Kamera dihidupkan
+[03-07-2025 22:01] Kamera dihidupkan
+[03-07-2025 22:03] Kamera dihidupkan
+[03-07-2025 22:06] Kamera dihidupkan
+[03-07-2025 22:08] Kamera dihidupkan
+[03-07-2025 22:11] Kamera dihidupkan
+[03-07-2025 22:13] Kamera dihidupkan
+[03-07-2025 22:14] Kamera dihidupkan
+[03-07-2025 22:16] Kamera dihidupkan
+[03-07-2025 22:18] Kamera dihidupkan
+[03-07-2025 22:19] Kamera dimatikan
+[03-07-2025 22:19] Kamera dihidupkan
+[03-07-2025 22:24] Kamera dihidupkan
+[03-07-2025 22:25] Kamera dihidupkan
+[03-07-2025 22:27] Kamera dihidupkan
+[03-07-2025 22:29] Kamera dihidupkan
+[03-07-2025 22:32] Kamera dihidupkan
+[03-07-2025 22:38] Kamera dihidupkan
+[03-07-2025 22:42] Kamera dihidupkan
+[03-07-2025 22:42] Objek teridentifikasi sedang berdiri
+[03-07-2025 22:42] Objek melakukan ruku setelah berdiri, pertanda melaksanakan salat
+[03-07-2025 22:44] Kamera dihidupkan
+[03-07-2025 22:44] Objek teridentifikasi sedang berdiri
+[03-07-2025 22:44] Objek melakukan ruku setelah berdiri, pertanda melaksanakan salat
+[03-07-2025 22:46] Kamera dihidupkan
+[03-07-2025 22:46] Objek teridentifikasi sedang berdiri
+[03-07-2025 22:47] Objek melakukan ruku setelah berdiri, pertanda melaksanakan salat
+[03-07-2025 22:54] Kamera dihidupkan
+[03-07-2025 22:55] Objek teridentifikasi melakukan berdiri
+[03-07-2025 22:55] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat
+[03-07-2025 22:55] Objek teridentifikasi melakukan berdiri
+[03-07-2025 22:55] Objek teridentifikasi melakukan sujud
+[03-07-2025 22:55] Objek teridentifikasi melakukan duduk
+[03-07-2025 22:55] Objek teridentifikasi melakukan sujud
+[03-07-2025 22:55] Objek teridentifikasi melakukan berdiri
+[03-07-2025 22:55] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Isya
+[03-07-2025 22:55] Objek teridentifikasi melakukan berdiri
+[03-07-2025 22:55] Objek teridentifikasi melakukan ruku
+[03-07-2025 22:55] Objek teridentifikasi melakukan berdiri
+[03-07-2025 22:56] Objek teridentifikasi melakukan sujud
+[03-07-2025 22:56] Objek teridentifikasi melakukan duduk
+[03-07-2025 22:56] Objek teridentifikasi melakukan sujud
+[03-07-2025 22:56] Objek teridentifikasi melakukan duduk
+

@@ -4,6 +4,7 @@ from setting import Setting
 from start import Start
 from assets.style.style import Style
 from assets.helper.save_settings import load_settings
+from assets.helper.load_model import load_model
 
 window_width = 800
 window_height = 600
@@ -19,6 +20,8 @@ settings = load_settings()
 camera = settings["camera"]
 orientation = settings["orientation"]
 time = settings["time"]
+
+model_predictor = load_model()
 
 def show_next(target_frame):
     
@@ -42,7 +45,7 @@ def show_next(target_frame):
 # ⬇️ Kirim fungsi navigasi saat membuat Page
 frame_homepage = Homepage(window,show_next)
 frame_setting = Setting(window, show_next)
-frame_start = Start(window, show_next)
+frame_start = Start(window, show_next, model_predictor)
 
 frame_homepage.pack(fill="both", expand=True)
 

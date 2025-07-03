@@ -1,19 +1,32 @@
 import tkinter as tk
 import cv2
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+
+# Hentikan logging absl (Google logging framework yg dipakai TF)
+import logging
+import absl.logging
+absl.logging.set_verbosity(absl.logging.ERROR)
+logging.getLogger('tensorflow').setLevel(logging.ERROR)
+
+import tensorflow as tf
+import numpy as np
 from PIL import Image, ImageTk
 from datetime import datetime
 from assets.helper.get_resource import resource_path
 from assets.helper.get_camera import get_camera
 from assets.helper.save_settings import load_settings
 from assets.helper.get_time import get_salat_time
+from assets.helper.check import check_true
 
 class Start(tk.Frame):
 
-    def __init__(self, parent, show_next):
+    def __init__(self, parent, show_next, model_predictor):
         super().__init__(parent)
         self.show_next = show_next
         self.configure(bg="lightblue")
         self.cap = None
+        self.model_predictor = model_predictor
         self.build_ui()
 
     def build_ui(self):
@@ -140,6 +153,14 @@ class Start(tk.Frame):
     camera = settings["camera"]
     orientation = settings["orientation"]
     time = settings["time"]
+    salat_time = get_salat_time(time)
+    
+    _runtutan = []
+    _gerak_curr = ""
+    _rakaat_now = 0
+    
+    gerakan_count = 0
+    cetakFalse = False
     
     @property
     def camera_setting(self):
@@ -156,7 +177,31 @@ class Start(tk.Frame):
     @orientation_setting.setter
     def orientation_setting(self, index):
         self.orientation = index
-
+    
+    @property
+    def runtutan(self):
+        return self._runtutan
+    
+    @runtutan.setter
+    def runtutan(self, array):
+        self._runtutan = array
+    
+    @property
+    def gerak_curr(self):
+        return self._gerak_curr
+    
+    @gerak_curr.setter
+    def gerak_curr(self, value):
+        self._gerak_curr = value
+    
+    @property
+    def rakaat_now(self):
+        return self._rakaat_now
+    
+    @rakaat_now.setter
+    def rakaat_now(self, index):
+        self._rakaat_now = index
+    
     def back(self, e):
         self.show_next("homepage")
         self.log("Kamera dimatikan")
@@ -197,7 +242,7 @@ class Start(tk.Frame):
         else:
             self.listbox.place(relx=0.27, rely=0.92, relwidth=0.27, anchor="sw")
             self.listbox.lift()
-            self.after(100, lambda: self.bind_all("<Button-1>", self.on_global_click))
+            self.after(1000, lambda: self.bind_all("<Button-1>", self.on_global_click))
     
     def on_global_click(self, event):
         widget = event.widget
@@ -210,12 +255,13 @@ class Start(tk.Frame):
             pilihan = self.listbox.get(self.listbox.curselection())
             camera = [k for k, v in self.kamera_dict.items() if v == pilihan][0]
             self.pilihan.set(pilihan)
+            self.camera_setting = camera
             self.dropdown_kamera.config(text="▲  " + pilihan)
             self.listbox.place_forget()
-            self.camera_setting = camera
             self.log(f"Kamera berganti menjadi {pilihan}")
+            
             self.stop_camera()
-            self.start_camera(camera, False)
+            self.start_camera(self.camera_setting, False)
     
     def toggle_dropdown_orientation(self):
         if self.listbox_orientation.winfo_ismapped():
@@ -224,7 +270,7 @@ class Start(tk.Frame):
         else:
             self.listbox_orientation.place(relx=0.57, rely=0.92, relwidth=0.12, anchor="sw")
             self.listbox_orientation.lift()
-            self.after(100, lambda: self.bind_all("<Button-1>", self.on_global_click_orientation))
+            self.after(1000, lambda: self.bind_all("<Button-1>", self.on_global_click_orientation))
     
     def on_global_click_orientation(self, event):
         widget = event.widget
@@ -240,8 +286,13 @@ class Start(tk.Frame):
             self.dropdown_orientation.config(text="▲  " + pilihan)
             self.listbox_orientation.place_forget()
             self.orientation_setting = orientation
-            self.stop_camera()
-            self.start_camera(self.camera_setting, False)
+            
+            self.cam.place_forget()
+            
+            if self.orientation_setting == 0:
+                self.cam.place(relx=0.5, rely=0.5, anchor="center", relwidth=1, relheight=0.75)
+            else:
+                self.cam.place(relx=0.5, rely=0.5, anchor="center", relwidth=0.75, relheight=1)
     
     def toggle_dropdown_log(self):
         if self.logbox.winfo_ismapped():
@@ -260,7 +311,7 @@ class Start(tk.Frame):
     
     def log(self, text):
         file_log = resource_path("assets/log.txt")
-    
+        
         log = f"[{datetime.now().strftime("%d-%m-%Y %H:%M")}] {text}\n"
         
         with open(file_log, mode="a") as file:
@@ -274,8 +325,6 @@ class Start(tk.Frame):
         if first_time:
             self.log("Kamera dihidupkan")
         
-        print(type(self.orientation_setting))
-            
         if self.orientation_setting == 0:
             self.cam.place(relx=0.5, rely=0.5, anchor="center", relwidth=1, relheight=0.75)
         else:
@@ -289,13 +338,51 @@ class Start(tk.Frame):
         if self.cap.isOpened():
             self.cap.release()
     
+    def process_input(self, image):
+        img = tf.image.resize_with_pad(tf.expand_dims(image, axis=0), 256, 256)
+        return tf.cast(img, dtype=tf.int32)
+    
     def update_frame(self):
         if not self.cap:
             return
 
         ret, frame = self.cap.read()
         if ret:
+            frame = cv2.rotate(frame, cv2.ROTATE_90_CLOCKWISE)
             frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+            input_image = self.process_input(frame)
+            
+            gerakan = ["berdiri", "duduk", "ruku", "sujud"]
+            prediksi = self.model_predictor.get_predict(input_image)
+            
+            if len(prediksi[0]) > 1 and np.max(prediksi) > 0.75:
+                label_index = np.argmax(prediksi)
+                if self.gerakan_count < 2:
+                    if  self.gerakan_count < 1 and gerakan[label_index] == "berdiri":
+                        self.gerakan_count += 1
+                        self.runtutan = ["berdiri"]
+                        self.gerak_curr = "berdiri"
+                    elif self.gerakan_count > 0 and gerakan[label_index] == "ruku":
+                        self.gerakan_count += 1
+                        self.runtutan += ["ruku"]
+                        self.gerak_curr = "ruku"
+                        self.log(f"Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat {self.salat_time}")
+                else:
+                    rakaat, runtut, kebenaran, curr, next, cetak, cetak2 = check_true(self.salat_time, gerakan[label_index], self.rakaat_now, self.runtutan, self.gerak_curr)
+                    self.rakaat_now = rakaat
+                    self.runtutan = runtut
+                    self.gerak_curr = curr
+                    if cetak:
+                        self.log(f"Objek teridentifikasi melakukan {gerakan[label_index]}")
+                    if cetak2:
+                        self.log(f"Objek teridentifikasi telah menyelesaikan rakaat ke-{self.rakaat_now} pada salat {self.salat_time}")
+                    if not kebenaran:
+                        cetakFalse = True
+                        print(self.runtutan)
+                        print(f"Seharusnya {next} tapi malah {gerakan[label_index]}")
+                        print("Kesalahan")
+                    if cetakFalse:
+                        self.log(f"Objek teridentifikasi melakukan kesalahan pada rakaat ke-{self.rakaat_now}, yaitu gerakan {next} setelah {self.runtutan[-1]}")
             
             # Ambil ukuran aktual dari self.cam
             cam_width = self.cam.winfo_width()
@@ -314,7 +401,7 @@ class Start(tk.Frame):
             self.cam.imgtk = imgtk
             self.cam.config(image=imgtk)
 
-        self.cam.after(167, self.update_frame) # 60fps
+        self.cam.after(50, self.update_frame) # 60fps
     
     def on_close(self):
         self.log("Kamera dimatikan")
