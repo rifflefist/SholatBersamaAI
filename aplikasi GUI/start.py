@@ -10,6 +10,8 @@ absl.logging.set_verbosity(absl.logging.ERROR)
 logging.getLogger('tensorflow').setLevel(logging.ERROR)
 
 import tensorflow as tf
+import time
+import pygame
 import numpy as np
 from PIL import Image, ImageTk
 from datetime import datetime
@@ -24,6 +26,7 @@ class Start(tk.Frame):
     def __init__(self, parent, show_next, model_predictor):
         super().__init__(parent)
         self.show_next = show_next
+        pygame.mixer.init()
         self.configure(bg="lightblue")
         self.cap = None
         self.model_predictor = model_predictor
@@ -72,6 +75,8 @@ class Start(tk.Frame):
 
         judul = tk.Label(jam_atas_frame, text=get_salat_time(settings["time"]), bg=my_bg, font=("Arial", 14, "bold"))
         judul.pack(side="right")
+
+        self.salah = tk.Label(self, text="Teridentifikasi Salah", bg=my_bg, font=("Arial", 14, "bold"), fg="red")
         
         self.frame_mid = tk.Frame(self, bg="black")
         self.frame_mid.place(relx=0.5, rely=0.48, relwidth=0.55, relheight=0.8, anchor="center")
@@ -158,9 +163,14 @@ class Start(tk.Frame):
     _runtutan = []
     _gerak_curr = ""
     _rakaat_now = 0
-    
-    gerakan_count = 0
-    cetakFalse = False
+
+    kebenaran = False
+    nampak = True
+    salah_first = True
+    transisi = False
+    rukun = 1
+    mulai = True
+    yakin = False
     
     @property
     def camera_setting(self):
@@ -348,41 +358,94 @@ class Start(tk.Frame):
 
         ret, frame = self.cap.read()
         if ret:
-            frame = cv2.rotate(frame, cv2.ROTATE_90_CLOCKWISE)
             frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
             input_image = self.process_input(frame)
             
             gerakan = ["berdiri", "duduk", "ruku", "sujud"]
-            prediksi = self.model_predictor.get_predict(input_image)
+            prediksi, teridentifikasi = self.model_predictor.get_predict(input_image)
+
+            if teridentifikasi and self.nampak:
+                self.log("Objek teridentifikasi!")
+                self.nampak = False
             
-            if len(prediksi[0]) > 1 and np.max(prediksi) > 0.75:
+            if self.rukun == 1:
+                trans = [3, 6]
+            elif self.rukun == 2:
+                trans = [3, 6, 7]
+            elif self.rukun == 3:
+                trans = [3]
+            else:
+                trans = []
+            
+            if len(prediksi[0]) > 1 and np.max(prediksi) > 0.79:
                 label_index = np.argmax(prediksi)
-                if self.gerakan_count < 2:
-                    if  self.gerakan_count < 1 and gerakan[label_index] == "berdiri":
-                        self.gerakan_count += 1
+                print(f"Terdeteksi : {gerakan[label_index]}")
+                if len(self.runtutan) in trans:
+                    self.transisi = True
+                else:
+                    self.transisi = False
+                if len(self.runtutan) < 2:
+                    if  len(self.runtutan) == 0 and gerakan[label_index] == "berdiri":
                         self.runtutan = ["berdiri"]
                         self.gerak_curr = "berdiri"
-                    elif self.gerakan_count > 0 and gerakan[label_index] == "ruku":
-                        self.gerakan_count += 1
+                        self.log("Objek teridentifikasi melakukan gerakan berdiri")
+                    elif len(self.runtutan) == 1 and gerakan[label_index] == "ruku":
                         self.runtutan += ["ruku"]
                         self.gerak_curr = "ruku"
-                        self.log(f"Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat {self.salat_time}")
+                        if self.mulai:
+                            self.log(f"Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat {self.salat_time}")
+                            self.mulai = False
+                        else:
+                            self.log("Objek teridentifikasi melakukan gerakan ruku")
                 else:
-                    rakaat, runtut, kebenaran, curr, next, cetak, cetak2 = check_true(self.salat_time, gerakan[label_index], self.rakaat_now, self.runtutan, self.gerak_curr)
-                    self.rakaat_now = rakaat
-                    self.runtutan = runtut
-                    self.gerak_curr = curr
-                    if cetak:
-                        self.log(f"Objek teridentifikasi melakukan {gerakan[label_index]}")
-                    if cetak2:
-                        self.log(f"Objek teridentifikasi telah menyelesaikan rakaat ke-{self.rakaat_now} pada salat {self.salat_time}")
-                    if not kebenaran:
-                        cetakFalse = True
-                        print(self.runtutan)
-                        print(f"Seharusnya {next} tapi malah {gerakan[label_index]}")
-                        print("Kesalahan")
-                    if cetakFalse:
-                        self.log(f"Objek teridentifikasi melakukan kesalahan pada rakaat ke-{self.rakaat_now}, yaitu gerakan {next} setelah {self.runtutan[-1]}")
+                    print(f"Gerak terdeteksi : {gerakan[label_index]}")
+                    print(f"Yakin : {self.yakin}")
+                    print(f"Runtutan : {self.runtutan}")
+                    print("END")
+                    if not self.runtutan[-1] == gerakan[label_index]:
+                        rakaat, runtut, kebenaran, curr, next, cetak, cetak2, rukunn = check_true(self.salat_time, gerakan[label_index], self.rakaat_now, self.runtutan, self.gerak_curr)
+                        self.rakaat_now = rakaat
+                        self.runtutan = runtut
+                        self.gerak_curr = curr
+                        self.kebenaran = kebenaran
+                        self.rukun = rukunn
+
+                        if not self.transisi:
+                            if cetak:
+                                self.log(f"Objek teridentifikasi melakukan {gerakan[label_index]}")
+                            if cetak2:
+                                self.log(f"Objek teridentifikasi telah menyelesaikan rakaat ke-{self.rakaat_now} pada salat {self.salat_time}")
+                            if not self.kebenaran:
+                                if self.yakin:
+                                    file_path = resource_path("assets/helper/subhanallah.mp3")
+                                    pygame.mixer.music.load(file_path)
+                                    pygame.mixer.music.play()
+                                    self.log(f"Objek teridentifikasi melakukan kesalahan pada rakaat ke-{self.rakaat_now+1}, yaitu gerakan {next} teridentifikasi {gerakan[label_index]}")
+                                    self.yakin = False
+                                else:
+                                    time.sleep(1.5)
+                                    self.yakin = True
+                            else:
+                                self.yakin = False
+                        else:
+                            if self.yakin and self.kebenaran:
+                                if cetak:
+                                    self.log(f"Objek teridentifikasi melakukan {gerakan[label_index]}")
+                                if cetak2:
+                                    self.log(f"Objek teridentifikasi telah menyelesaikan rakaat ke-{self.rakaat_now} pada salat {self.salat_time}")
+                                self.yakin = False
+                            elif self.yakin and not self.kebenaran:
+                                file_path = resource_path("assets/helper/subhanallah.mp3")
+                                pygame.mixer.music.load(file_path)
+                                pygame.mixer.music.play()
+                                self.log(f"Objek teridentifikasi melakukan kesalahan pada rakaat ke-{self.rakaat_now+1}, yaitu gerakan {next} teridentifikasi {gerakan[label_index]}")
+                                self.yakin = False
+                            elif not self.yakin:
+                                print(f"Padahal yakinnya {self.yakin}, tapi masuk")
+                                if self.kebenaran and len(self.runtutan) > 1:
+                                    self.runtutan.pop()
+                                self.yakin = True
+                                time.sleep(3.8)
             
             # Ambil ukuran aktual dari self.cam
             cam_width = self.cam.winfo_width()

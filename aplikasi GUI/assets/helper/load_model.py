@@ -226,10 +226,11 @@ class load_model():
 
     def get_predict(self, input_image):
         
+        teridentifikasi = False
         predict = [[]]
         
         keypoints = self.movenet(input_image)[0, 0, :, :]
-        if np.mean(keypoints[:, 2]) > 0.5:
+        if np.mean(keypoints[:, 2]) > 0.4:
         
             normalized_keypoints = self.normalize_hip_center(keypoints)
             
@@ -248,5 +249,7 @@ class load_model():
             interpreter_gerakan.invoke()
 
             predict = interpreter_gerakan.get_tensor(output_details[0]['index'])
+
+            teridentifikasi = True
         
-        return predict
+        return predict, teridentifikasi

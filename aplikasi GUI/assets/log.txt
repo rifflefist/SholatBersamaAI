@@ -195,3 +195,1559 @@
 [03-07-2025 22:56] Objek teridentifikasi melakukan sujud
 [03-07-2025 22:56] Objek teridentifikasi melakukan duduk
 
+[05-07-2025 11:45] Kamera dihidupkan
+[05-07-2025 11:46] Kamera berganti menjadi DroidCam Source 2
+[05-07-2025 11:46] Kamera berganti menjadi DroidCam Source 3
+[05-07-2025 11:46] Kamera dimatikan
+[05-07-2025 11:52] Kamera dihidupkan
+[05-07-2025 11:52] Kamera dimatikan
+[05-07-2025 11:52] Kamera dihidupkan
+[05-07-2025 11:53] Kamera dihidupkan
+[05-07-2025 12:02] Kamera dihidupkan
+[05-07-2025 12:03] Kamera dihidupkan
+[05-07-2025 12:04] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 12:04] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:08] Kamera dihidupkan
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:09] Objek teridentifikasi!
+[05-07-2025 12:11] Kamera dihidupkan
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek teridentifikasi!
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 12:11] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:11] Objek menghilang
+[05-07-2025 12:12] Objek menghilang
+[05-07-2025 12:12] Objek menghilang
+[05-07-2025 12:12] Objek menghilang
+[05-07-2025 12:12] Objek menghilang
+[05-07-2025 12:14] Kamera dihidupkan
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:14] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah berdiri
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek menghilang
+[05-07-2025 12:14] Objek teridentifikasi!
+[05-07-2025 12:14] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah berdiri
+[05-07-2025 12:14] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah berdiri
+[05-07-2025 12:16] Kamera dihidupkan
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 12:16] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah berdiri
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah berdiri
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah berdiri
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah berdiri
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek teridentifikasi melakukan sujud
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan duduk setelah sujud
+[05-07-2025 12:16] Objek teridentifikasi melakukan duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:16] Objek teridentifikasi melakukan sujud
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan berdiri setelah sujud
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan berdiri setelah sujud
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan berdiri setelah sujud
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek menghilang
+[05-07-2025 12:16] Objek teridentifikasi!
+[05-07-2025 12:16] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:16] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 12:25] Kamera dihidupkan
+[05-07-2025 12:25] Objek teridentifikasi!
+[05-07-2025 12:25] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 12:25] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 12:25] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah berdiri
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah berdiri
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah berdiri
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah berdiri
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah berdiri
+[05-07-2025 12:26] Objek teridentifikasi melakukan sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan duduk setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan duduk
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah duduk
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah duduk
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan sujud setelah duduk
+[05-07-2025 12:26] Objek teridentifikasi melakukan sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan berdiri setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan  setelah sujud
+[05-07-2025 12:27] Objek teridentifikasi melakukan kesalahan pada rakaat ke-0, yaitu gerakan berdiri setelah sujud
+[05-07-2025 12:27] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:27] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 12:30] Kamera dihidupkan
+[05-07-2025 12:30] Objek teridentifikasi!
+[05-07-2025 12:30] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 12:30] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 12:31] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:31] Objek teridentifikasi melakukan sujud
+[05-07-2025 12:31] Objek teridentifikasi melakukan duduk
+[05-07-2025 12:31] Objek teridentifikasi melakukan sujud
+[05-07-2025 12:31] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:31] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 12:31] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:32] Kamera dimatikan
+[05-07-2025 12:48] Kamera dihidupkan
+[05-07-2025 12:48] Objek teridentifikasi!
+[05-07-2025 12:48] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 12:48] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 12:48] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:48] Objek teridentifikasi melakukan sujud
+[05-07-2025 12:48] Objek teridentifikasi melakukan duduk
+[05-07-2025 12:48] Objek teridentifikasi melakukan sujud
+[05-07-2025 12:48] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:48] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 12:48] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:49] Objek teridentifikasi melakukan ruku
+[05-07-2025 12:49] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 12:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 12:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 12:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 12:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 12:49] Objek teridentifikasi melakukan sujud
+[05-07-2025 12:49] Objek teridentifikasi melakukan duduk
+[05-07-2025 12:49] Objek teridentifikasi melakukan sujud
+[05-07-2025 12:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 12:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 12:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 12:49] Objek teridentifikasi melakukan duduk
+[05-07-2025 12:50] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 12:50] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:50] Objek teridentifikasi telah menyelesaikan rakaat ke-2 pada salat Dzuhur
+[05-07-2025 12:50] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:51] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 12:51] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 12:51] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 12:53] Kamera dimatikan
+[05-07-2025 12:53] Kamera dihidupkan
+[05-07-2025 12:59] Kamera dihidupkan
+[05-07-2025 12:59] Objek teridentifikasi!
+[05-07-2025 12:59] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 12:59] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 12:59] Objek teridentifikasi melakukan berdiri
+[05-07-2025 12:59] Objek teridentifikasi melakukan sujud
+[05-07-2025 12:59] Objek teridentifikasi melakukan duduk
+[05-07-2025 13:00] Objek teridentifikasi melakukan sujud
+[05-07-2025 13:00] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:00] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:00] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 13:00] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:00] Objek teridentifikasi melakukan ruku
+[05-07-2025 13:00] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:00] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 13:00] Objek teridentifikasi melakukan sujud
+[05-07-2025 13:00] Objek teridentifikasi melakukan duduk
+[05-07-2025 13:00] Objek teridentifikasi melakukan sujud
+[05-07-2025 13:00] Objek teridentifikasi melakukan duduk
+[05-07-2025 13:00] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:00] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:00] Objek teridentifikasi telah menyelesaikan rakaat ke-2 pada salat Dzuhur
+[05-07-2025 13:00] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:01] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:01] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:01] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:01] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:01] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:01] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:01] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:01] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:01] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:01] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:02] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:02] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:21] Kamera dihidupkan
+[05-07-2025 13:21] Objek teridentifikasi!
+[05-07-2025 13:21] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 13:22] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 13:22] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:22] Objek teridentifikasi melakukan sujud
+[05-07-2025 13:22] Objek teridentifikasi melakukan duduk
+[05-07-2025 13:22] Objek teridentifikasi melakukan sujud
+[05-07-2025 13:22] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 13:22] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 13:22] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:22] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:22] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 13:22] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:34] Kamera dihidupkan
+[05-07-2025 13:34] Objek teridentifikasi!
+[05-07-2025 13:35] Kamera dihidupkan
+[05-07-2025 13:35] Objek teridentifikasi!
+[05-07-2025 13:36] Kamera dihidupkan
+[05-07-2025 13:36] Objek teridentifikasi!
+[05-07-2025 13:36] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 13:36] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 13:38] Kamera dihidupkan
+[05-07-2025 13:38] Objek teridentifikasi!
+[05-07-2025 13:38] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 13:38] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 13:39] Kamera dihidupkan
+[05-07-2025 13:39] Objek teridentifikasi!
+[05-07-2025 13:39] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 13:39] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 13:39] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:39] Objek teridentifikasi melakukan sujud
+[05-07-2025 13:39] Objek teridentifikasi melakukan duduk
+[05-07-2025 13:39] Objek teridentifikasi melakukan sujud
+[05-07-2025 13:40] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:40] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 13:40] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:40] Objek teridentifikasi melakukan ruku
+[05-07-2025 13:40] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:40] Objek teridentifikasi melakukan sujud
+[05-07-2025 13:40] Objek teridentifikasi melakukan duduk
+[05-07-2025 13:40] Objek teridentifikasi melakukan sujud
+[05-07-2025 13:40] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 13:40] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 13:40] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 13:40] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 13:43] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 13:43] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 13:43] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 13:43] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 13:43] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 13:43] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 13:43] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 13:43] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 13:43] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 13:43] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 13:43] Objek teridentifikasi melakukan duduk
+[05-07-2025 13:44] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:44] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:44] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:44] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:44] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:44] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:45] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:45] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:45] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:45] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:45] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:47] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 13:56] Kamera dihidupkan
+[05-07-2025 13:56] Objek teridentifikasi!
+[05-07-2025 13:56] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 13:57] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Ashar
+[05-07-2025 13:57] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:57] Objek teridentifikasi melakukan sujud
+[05-07-2025 13:57] Objek teridentifikasi melakukan duduk
+[05-07-2025 13:57] Objek teridentifikasi melakukan sujud
+[05-07-2025 13:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 13:57] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:57] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Ashar
+[05-07-2025 13:57] Objek teridentifikasi melakukan berdiri
+[05-07-2025 13:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan ruku teridentifikasi duduk
+[05-07-2025 13:57] Objek teridentifikasi melakukan ruku
+[05-07-2025 13:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 13:57] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:23] Kamera dihidupkan
+[05-07-2025 14:24] Objek teridentifikasi!
+[05-07-2025 14:24] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:25] Kamera dihidupkan
+[05-07-2025 14:30] Kamera dihidupkan
+[05-07-2025 14:30] Objek teridentifikasi!
+[05-07-2025 14:31] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:31] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 14:31] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:31] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:32] Objek teridentifikasi melakukan duduk
+[05-07-2025 14:32] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:32] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 14:32] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:32] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 14:32] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:33] Kamera dihidupkan
+[05-07-2025 14:33] Objek teridentifikasi!
+[05-07-2025 14:33] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:34] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 14:34] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:34] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:34] Objek teridentifikasi melakukan duduk
+[05-07-2025 14:34] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:34] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 14:35] Kamera dihidupkan
+[05-07-2025 14:35] Objek teridentifikasi!
+[05-07-2025 14:35] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:36] Kamera dihidupkan
+[05-07-2025 14:36] Objek teridentifikasi!
+[05-07-2025 14:36] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:36] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 14:36] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:36] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:36] Objek teridentifikasi melakukan duduk
+[05-07-2025 14:36] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:36] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 14:36] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:36] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 14:36] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:40] Kamera dihidupkan
+[05-07-2025 14:40] Objek teridentifikasi!
+[05-07-2025 14:40] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:41] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 14:41] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:41] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:41] Objek teridentifikasi melakukan duduk
+[05-07-2025 14:41] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:41] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 14:41] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:41] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 14:41] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:43] Kamera dihidupkan
+[05-07-2025 14:43] Objek teridentifikasi!
+[05-07-2025 14:43] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:43] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 14:43] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:44] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:44] Objek teridentifikasi melakukan duduk
+[05-07-2025 14:44] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:44] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 14:44] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:44] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 14:44] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:45] Kamera dihidupkan
+[05-07-2025 14:45] Objek teridentifikasi!
+[05-07-2025 14:45] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:45] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 14:45] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:45] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:45] Objek teridentifikasi melakukan duduk
+[05-07-2025 14:45] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:46] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 14:46] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:46] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Dzuhur
+[05-07-2025 14:46] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:47] Kamera dihidupkan
+[05-07-2025 14:47] Objek teridentifikasi!
+[05-07-2025 14:47] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:47] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 14:47] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:47] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:47] Objek teridentifikasi melakukan duduk
+[05-07-2025 14:47] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 14:50] Kamera dihidupkan
+[05-07-2025 14:50] Objek teridentifikasi!
+[05-07-2025 14:50] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:50] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 14:50] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:51] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 14:51] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 14:52] Kamera dihidupkan
+[05-07-2025 14:52] Objek teridentifikasi!
+[05-07-2025 14:52] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:52] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 14:52] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:53] Kamera dihidupkan
+[05-07-2025 14:53] Objek teridentifikasi!
+[05-07-2025 14:53] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:53] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 14:53] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:54] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:54] Objek teridentifikasi melakukan duduk
+[05-07-2025 14:54] Objek teridentifikasi melakukan sujud
+[05-07-2025 14:56] Kamera dihidupkan
+[05-07-2025 14:56] Objek teridentifikasi!
+[05-07-2025 14:56] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 14:56] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 14:56] Objek teridentifikasi melakukan berdiri
+[05-07-2025 14:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 14:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 14:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 14:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 14:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 14:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 14:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 14:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 14:57] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:00] Kamera dihidupkan
+[05-07-2025 15:00] Objek teridentifikasi!
+[05-07-2025 15:00] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:00] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:00] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:00] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:00] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:00] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:02] Kamera dihidupkan
+[05-07-2025 15:02] Objek teridentifikasi!
+[05-07-2025 15:02] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:02] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:02] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:02] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:02] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:02] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:02] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:02] Objek teridentifikasi melakukan ruku
+[05-07-2025 15:03] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:03] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:03] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:03] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:06] Kamera dihidupkan
+[05-07-2025 15:06] Objek teridentifikasi!
+[05-07-2025 15:06] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:07] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:07] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:07] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:07] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:07] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:07] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:07] Objek teridentifikasi melakukan ruku
+[05-07-2025 15:07] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:07] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:07] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:07] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:09] Kamera dihidupkan
+[05-07-2025 15:09] Objek teridentifikasi!
+[05-07-2025 15:10] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:10] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:10] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:11] Kamera dihidupkan
+[05-07-2025 15:11] Objek teridentifikasi!
+[05-07-2025 15:11] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:11] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:12] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:12] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:12] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:12] Kamera dihidupkan
+[05-07-2025 15:12] Objek teridentifikasi!
+[05-07-2025 15:12] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:13] Kamera dihidupkan
+[05-07-2025 15:13] Objek teridentifikasi!
+[05-07-2025 15:13] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:13] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:13] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:13] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:13] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:13] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:15] Kamera dihidupkan
+[05-07-2025 15:15] Objek teridentifikasi!
+[05-07-2025 15:15] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:16] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:16] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:16] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:16] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:16] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:16] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 15:16] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:16] Kamera dihidupkan
+[05-07-2025 15:16] Objek teridentifikasi!
+[05-07-2025 15:16] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:16] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:16] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:17] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:17] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:17] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:17] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:17] Objek teridentifikasi melakukan ruku
+[05-07-2025 15:17] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:17] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:17] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:17] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:17] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:17] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:17] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:18] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:18] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:18] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 15:18] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 15:18] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 15:18] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 15:18] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 15:18] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 15:18] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:21] Kamera dihidupkan
+[05-07-2025 15:21] Objek teridentifikasi!
+[05-07-2025 15:22] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:22] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:22] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:23] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:23] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:23] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:23] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 15:23] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:24] Objek teridentifikasi melakukan ruku
+[05-07-2025 15:24] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:24] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:24] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:24] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 15:25] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 15:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 15:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 15:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 15:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 15:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 15:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 15:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 15:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 15:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 15:25] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:26] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:26] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 15:26] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:29] Kamera dihidupkan
+[05-07-2025 15:29] Objek teridentifikasi!
+[05-07-2025 15:29] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:29] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:30] Kamera dihidupkan
+[05-07-2025 15:30] Objek teridentifikasi!
+[05-07-2025 15:30] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:30] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:30] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:30] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:30] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:30] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:30] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:33] Kamera dihidupkan
+[05-07-2025 15:33] Objek teridentifikasi!
+[05-07-2025 15:34] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:34] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:35] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:35] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:35] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:35] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:36] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:36] Objek teridentifikasi melakukan ruku
+[05-07-2025 15:36] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:36] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:36] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:36] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 15:36] Objek teridentifikasi melakukan sujud
+[05-07-2025 15:36] Objek teridentifikasi melakukan duduk
+[05-07-2025 15:36] Objek teridentifikasi melakukan berdiri
+[05-07-2025 15:45] Kamera dihidupkan
+[05-07-2025 15:45] Objek teridentifikasi!
+[05-07-2025 15:45] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:45] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:46] Kamera dihidupkan
+[05-07-2025 15:46] Objek teridentifikasi!
+[05-07-2025 15:46] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:46] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:48] Kamera dihidupkan
+[05-07-2025 15:48] Objek teridentifikasi!
+[05-07-2025 15:48] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:48] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:49] Kamera dihidupkan
+[05-07-2025 15:49] Objek teridentifikasi!
+[05-07-2025 15:49] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:49] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:49] Kamera dihidupkan
+[05-07-2025 15:49] Objek teridentifikasi!
+[05-07-2025 15:49] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:49] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Dzuhur
+[05-07-2025 15:58] Kamera dihidupkan
+[05-07-2025 15:58] Objek teridentifikasi!
+[05-07-2025 15:58] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 15:59] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Ashar
+[05-07-2025 15:59] Objek teridentifikasi melakukan berdiri
+[05-07-2025 16:00] Kamera dihidupkan
+[05-07-2025 16:00] Objek teridentifikasi!
+[05-07-2025 16:00] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 16:00] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Ashar
+[05-07-2025 16:01] Objek teridentifikasi melakukan berdiri
+[05-07-2025 16:04] Kamera dihidupkan
+[05-07-2025 16:04] Objek teridentifikasi!
+[05-07-2025 16:04] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 16:04] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Ashar
+[05-07-2025 16:04] Objek teridentifikasi melakukan berdiri
+[05-07-2025 16:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 16:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 16:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 16:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 16:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 16:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 16:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 16:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 16:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 18:30] Kamera dihidupkan
+[05-07-2025 18:30] Objek teridentifikasi!
+[05-07-2025 18:30] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 18:30] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Ashar
+[05-07-2025 18:30] Objek teridentifikasi melakukan berdiri
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 18:31] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 18:32] Kamera dihidupkan
+[05-07-2025 18:33] Objek teridentifikasi!
+[05-07-2025 18:33] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 18:33] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Ashar
+[05-07-2025 18:33] Objek teridentifikasi melakukan berdiri
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Kamera dihidupkan
+[05-07-2025 18:42] Objek teridentifikasi!
+[05-07-2025 18:42] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 18:42] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 18:42] Objek teridentifikasi melakukan berdiri
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:42] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 18:46] Kamera dihidupkan
+[05-07-2025 18:46] Objek teridentifikasi!
+[05-07-2025 18:46] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 18:46] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 18:46] Objek teridentifikasi melakukan berdiri
+[05-07-2025 18:47] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 18:47] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi ruku
+[05-07-2025 18:48] Kamera dihidupkan
+[05-07-2025 18:48] Objek teridentifikasi!
+[05-07-2025 18:48] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 18:49] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 18:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 18:50] Kamera dihidupkan
+[05-07-2025 18:50] Objek teridentifikasi!
+[05-07-2025 18:50] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 18:51] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 18:51] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 18:52] Kamera dihidupkan
+[05-07-2025 18:52] Objek teridentifikasi!
+[05-07-2025 18:53] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 18:53] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 18:53] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 18:53] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 18:55] Kamera dihidupkan
+[05-07-2025 18:55] Objek teridentifikasi!
+[05-07-2025 18:55] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 18:56] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 18:58] Kamera dihidupkan
+[05-07-2025 18:58] Objek teridentifikasi!
+[05-07-2025 18:58] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 18:58] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 18:58] Objek teridentifikasi melakukan berdiri
+[05-07-2025 18:58] Objek teridentifikasi melakukan sujud
+[05-07-2025 18:58] Objek teridentifikasi melakukan duduk
+[05-07-2025 18:58] Objek teridentifikasi melakukan sujud
+[05-07-2025 18:58] Objek teridentifikasi melakukan ruku
+[05-07-2025 18:58] Objek teridentifikasi melakukan berdiri
+[05-07-2025 18:59] Objek teridentifikasi melakukan sujud
+[05-07-2025 18:59] Objek teridentifikasi melakukan duduk
+[05-07-2025 18:59] Objek teridentifikasi melakukan sujud
+[05-07-2025 18:59] Objek teridentifikasi melakukan duduk
+[05-07-2025 19:07] Kamera dihidupkan
+[05-07-2025 19:07] Objek teridentifikasi!
+[05-07-2025 19:07] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:07] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:07] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:07] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:07] Objek teridentifikasi melakukan duduk
+[05-07-2025 19:07] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:08] Objek teridentifikasi melakukan ruku
+[05-07-2025 19:08] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:08] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:08] Objek teridentifikasi melakukan duduk
+[05-07-2025 19:08] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:08] Objek teridentifikasi melakukan duduk
+[05-07-2025 19:10] Kamera dihidupkan
+[05-07-2025 19:10] Objek teridentifikasi!
+[05-07-2025 19:10] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:11] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:11] Kamera dihidupkan
+[05-07-2025 19:11] Objek teridentifikasi!
+[05-07-2025 19:11] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:11] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:11] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:11] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:11] Objek teridentifikasi melakukan duduk
+[05-07-2025 19:13] Kamera dihidupkan
+[05-07-2025 19:13] Objek teridentifikasi!
+[05-07-2025 19:13] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:13] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:13] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:14] Kamera dihidupkan
+[05-07-2025 19:14] Objek teridentifikasi!
+[05-07-2025 19:14] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:14] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:15] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:16] Kamera dihidupkan
+[05-07-2025 19:16] Objek teridentifikasi!
+[05-07-2025 19:16] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:17] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:17] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:20] Kamera dihidupkan
+[05-07-2025 19:20] Objek teridentifikasi!
+[05-07-2025 19:20] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:20] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:20] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:33] Kamera dihidupkan
+[05-07-2025 19:33] Objek teridentifikasi!
+[05-07-2025 19:33] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:33] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:33] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:34] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 19:34] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 19:34] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:34] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:34] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:34] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Maghrib
+[05-07-2025 19:37] Kamera dihidupkan
+[05-07-2025 19:37] Objek teridentifikasi!
+[05-07-2025 19:37] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:38] Kamera dihidupkan
+[05-07-2025 19:38] Objek teridentifikasi!
+[05-07-2025 19:38] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:38] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:38] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:38] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 19:38] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 19:39] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:39] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:39] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:39] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Maghrib
+[05-07-2025 19:39] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:40] Kamera dihidupkan
+[05-07-2025 19:40] Objek teridentifikasi!
+[05-07-2025 19:40] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:40] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:40] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:40] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 19:41] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 19:41] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:41] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:41] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:41] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Maghrib
+[05-07-2025 19:41] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:41] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 19:41] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 19:41] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:42] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:42] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:42] Objek teridentifikasi telah menyelesaikan rakaat ke-2 pada salat Maghrib
+[05-07-2025 19:42] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:44] Kamera dihidupkan
+[05-07-2025 19:44] Objek teridentifikasi!
+[05-07-2025 19:44] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:44] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:44] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:44] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi sujud
+[05-07-2025 19:44] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 19:44] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:45] Kamera dihidupkan
+[05-07-2025 19:45] Objek teridentifikasi!
+[05-07-2025 19:45] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:45] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:45] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:45] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:47] Kamera dihidupkan
+[05-07-2025 19:47] Objek teridentifikasi!
+[05-07-2025 19:47] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:47] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:47] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:48] Kamera dihidupkan
+[05-07-2025 19:48] Objek teridentifikasi!
+[05-07-2025 19:48] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:49] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Maghrib
+[05-07-2025 19:49] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:49] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:49] Objek teridentifikasi melakukan duduk
+[05-07-2025 19:49] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:49] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:49] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Maghrib
+[05-07-2025 19:49] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:49] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 19:49] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:49] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:49] Objek teridentifikasi melakukan duduk
+[05-07-2025 19:49] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:50] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 19:50] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 19:50] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 19:52] Kamera dihidupkan
+[05-07-2025 19:52] Objek teridentifikasi!
+[05-07-2025 19:52] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:52] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 19:52] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:52] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:52] Objek teridentifikasi melakukan duduk
+[05-07-2025 19:52] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:55] Kamera dihidupkan
+[05-07-2025 19:55] Objek teridentifikasi!
+[05-07-2025 19:55] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:55] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 19:55] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:57] Kamera dihidupkan
+[05-07-2025 19:57] Objek teridentifikasi!
+[05-07-2025 19:57] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:57] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 19:57] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:57] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:57] Objek teridentifikasi melakukan duduk
+[05-07-2025 19:57] Objek teridentifikasi melakukan sujud
+[05-07-2025 19:57] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:57] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Isya
+[05-07-2025 19:57] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:57] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 19:57] Objek teridentifikasi melakukan berdiri
+[05-07-2025 19:58] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 19:58] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 19:58] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 19:58] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 19:58] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 19:58] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 19:59] Kamera dihidupkan
+[05-07-2025 19:59] Objek teridentifikasi!
+[05-07-2025 19:59] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 19:59] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 19:59] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:00] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:00] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:00] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:00] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:00] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Isya
+[05-07-2025 20:00] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:00] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 20:00] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:00] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:02] Kamera dihidupkan
+[05-07-2025 20:02] Objek teridentifikasi!
+[05-07-2025 20:02] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:02] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:02] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:02] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:03] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 20:04] Kamera dihidupkan
+[05-07-2025 20:04] Objek teridentifikasi!
+[05-07-2025 20:04] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:04] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:04] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:04] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:04] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:04] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:04] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:04] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Isya
+[05-07-2025 20:04] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:04] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 20:05] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:07] Kamera dihidupkan
+[05-07-2025 20:07] Objek teridentifikasi!
+[05-07-2025 20:08] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:08] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:08] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:13] Kamera dihidupkan
+[05-07-2025 20:13] Objek teridentifikasi!
+[05-07-2025 20:13] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:13] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:13] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:15] Kamera dihidupkan
+[05-07-2025 20:15] Objek teridentifikasi!
+[05-07-2025 20:15] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:15] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:15] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:15] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 20:15] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 20:15] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 20:15] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:15] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:17] Kamera dihidupkan
+[05-07-2025 20:17] Objek teridentifikasi!
+[05-07-2025 20:17] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:17] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:17] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:18] Kamera dihidupkan
+[05-07-2025 20:18] Objek teridentifikasi!
+[05-07-2025 20:18] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:18] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:18] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:20] Kamera dihidupkan
+[05-07-2025 20:20] Objek teridentifikasi!
+[05-07-2025 20:20] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:21] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:21] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:22] Kamera dihidupkan
+[05-07-2025 20:22] Objek teridentifikasi!
+[05-07-2025 20:22] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:22] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:22] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:22] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 20:22] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 20:22] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:22] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:24] Kamera dihidupkan
+[05-07-2025 20:24] Objek teridentifikasi!
+[05-07-2025 20:25] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:25] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:25] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 20:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 20:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 20:25] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 20:27] Kamera dihidupkan
+[05-07-2025 20:27] Objek teridentifikasi!
+[05-07-2025 20:27] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:27] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:27] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:27] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 20:27] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 20:27] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 20:27] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:28] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:28] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:29] Kamera dihidupkan
+[05-07-2025 20:29] Objek teridentifikasi!
+[05-07-2025 20:29] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:29] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:29] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:29] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:29] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:29] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:29] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:29] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Isya
+[05-07-2025 20:29] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:29] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 20:29] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:29] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:30] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:30] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:30] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 20:30] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:30] Kamera dihidupkan
+[05-07-2025 20:30] Objek teridentifikasi!
+[05-07-2025 20:30] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:31] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:31] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:31] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:31] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:31] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:31] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:31] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Isya
+[05-07-2025 20:31] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:31] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 20:31] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:31] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:31] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:32] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:32] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 20:32] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 20:32] Kamera dihidupkan
+[05-07-2025 20:32] Objek teridentifikasi!
+[05-07-2025 20:32] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:32] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:32] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:33] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:33] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:33] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:33] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:33] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Isya
+[05-07-2025 20:33] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:33] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 20:33] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:33] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:33] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:33] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 20:33] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 20:37] Kamera dihidupkan
+[05-07-2025 20:40] Kamera dihidupkan
+[05-07-2025 20:45] Kamera dihidupkan
+[05-07-2025 20:45] Objek teridentifikasi!
+[05-07-2025 20:46] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:46] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:46] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:46] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:47] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:47] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:47] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:47] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Isya
+[05-07-2025 20:47] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:47] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 20:47] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:48] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:48] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:48] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:48] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:48] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:49] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:49] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:49] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 20:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi ruku
+[05-07-2025 20:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 20:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 20:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 20:49] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 20:49] Kamera dihidupkan
+[05-07-2025 20:49] Objek teridentifikasi!
+[05-07-2025 20:49] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:50] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:50] Kamera dihidupkan
+[05-07-2025 20:50] Objek teridentifikasi!
+[05-07-2025 20:50] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:50] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:50] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:50] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:50] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi duduk
+[05-07-2025 20:51] Kamera dihidupkan
+[05-07-2025 20:51] Objek teridentifikasi!
+[05-07-2025 20:51] Kamera dihidupkan
+[05-07-2025 20:51] Objek teridentifikasi!
+[05-07-2025 20:52] Kamera dihidupkan
+[05-07-2025 20:52] Objek teridentifikasi!
+[05-07-2025 20:52] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:52] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:52] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:53] Kamera dihidupkan
+[05-07-2025 20:53] Objek teridentifikasi!
+[05-07-2025 20:53] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:54] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:54] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:55] Kamera dihidupkan
+[05-07-2025 20:55] Objek teridentifikasi!
+[05-07-2025 20:55] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:55] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:55] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:57] Kamera dihidupkan
+[05-07-2025 20:57] Objek teridentifikasi!
+[05-07-2025 20:57] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:57] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:57] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:57] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:57] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:58] Kamera dihidupkan
+[05-07-2025 20:58] Objek teridentifikasi!
+[05-07-2025 20:58] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 20:58] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 20:58] Objek teridentifikasi melakukan berdiri
+[05-07-2025 20:58] Objek teridentifikasi melakukan sujud
+[05-07-2025 20:58] Objek teridentifikasi melakukan duduk
+[05-07-2025 20:58] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi ruku
+[05-07-2025 20:58] Objek teridentifikasi melakukan kesalahan pada rakaat ke-1, yaitu gerakan sujud teridentifikasi berdiri
+[05-07-2025 21:01] Kamera dihidupkan
+[05-07-2025 21:01] Objek teridentifikasi!
+[05-07-2025 21:01] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 21:02] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
+[05-07-2025 21:02] Objek teridentifikasi melakukan berdiri
+[05-07-2025 21:02] Objek teridentifikasi melakukan sujud
+[05-07-2025 21:02] Objek teridentifikasi melakukan duduk
+[05-07-2025 21:03] Objek teridentifikasi melakukan sujud
+[05-07-2025 21:03] Objek teridentifikasi melakukan berdiri
+[05-07-2025 21:03] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Isya
+[05-07-2025 21:03] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 21:03] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 21:03] Objek teridentifikasi melakukan berdiri
+[05-07-2025 21:03] Objek teridentifikasi melakukan sujud
+[05-07-2025 21:04] Objek teridentifikasi melakukan duduk
+[05-07-2025 21:04] Objek teridentifikasi melakukan sujud
+[05-07-2025 21:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 21:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 21:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 21:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 21:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 21:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 21:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 21:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 21:04] Objek teridentifikasi melakukan kesalahan pada rakaat ke-2, yaitu gerakan duduk teridentifikasi berdiri
+[05-07-2025 21:04] Objek teridentifikasi melakukan duduk
+[05-07-2025 21:05] Objek teridentifikasi melakukan gerakan berdiri
+[05-07-2025 21:12] Objek teridentifikasi melakukan gerakan ruku
+[05-07-2025 21:12] Objek teridentifikasi melakukan kesalahan pada rakaat ke-3, yaitu gerakan berdiri teridentifikasi duduk
+[05-07-2025 21:12] Objek teridentifikasi melakukan berdiri

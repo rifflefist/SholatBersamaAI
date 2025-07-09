@@ -288,7 +288,7 @@ class Setting(tk.Frame):
 
     def toggle_button_set_auto(self):
         hour, min = get_time()
-        self.time_setting = f"{hour}:{min}"
+        self.time_setting = "auto"
         if self.set_auto.get():
             self.dropdown_hour.config(text=hour, state="disabled", cursor="arrow")
             self.dropdown_min.config(text=min, state="disabled", cursor="arrow")

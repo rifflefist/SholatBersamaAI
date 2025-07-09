@@ -18,6 +18,13 @@ def check_true(salat, gerak_now, rakaat_now, runtutan, gerak_curr):
         3 : [rakaat_ganjil, rakaat_genap, rakaat_akhir],
         4 : [rakaat_ganjil, rakaat_genap, rakaat_ganjil, rakaat_akhir]
     }
+
+    rukun_dict = {
+        0 : [0],
+        2 : [1, 2],
+        3 : [1, 2, 3],
+        4 : [1, 2, 1, 3]
+    }
     
     cetak = False
     cetak2 = False
@@ -26,6 +33,8 @@ def check_true(salat, gerak_now, rakaat_now, runtutan, gerak_curr):
     
     if len(runtutan) == 0:
         gerak_curr = ""
+
+    rukun = rukun_dict.get(rakaat_dict.get(salat))[rakaat_now]
     
     if gerak_now != gerak_curr:
         rukun_now = rukun_salat.get(rakaat_dict.get(salat))
@@ -48,4 +57,4 @@ def check_true(salat, gerak_now, rakaat_now, runtutan, gerak_curr):
         else:
             kebenaran = False
 
-    return rakaat_now, runtutan, kebenaran, gerak_curr, gerak_next, cetak, cetak2
+    return rakaat_now, runtutan, kebenaran, gerak_curr, gerak_next, cetak, cetak2, rukun
