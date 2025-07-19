@@ -195,31 +195,3 @@
 [03-07-2025 22:56] Objek teridentifikasi melakukan sujud
 [03-07-2025 22:56] Objek teridentifikasi melakukan duduk
 
-[04-07-2025 02:53] Kamera dihidupkan
-[04-07-2025 03:03] Kamera berganti menjadi OBS Virtual Camera
-[04-07-2025 03:03] Kamera berganti menjadi Iriun Webcam
-[04-07-2025 03:08] Kamera dihidupkan
-[04-07-2025 03:08] Kamera berganti menjadi OBS Virtual Camera
-[04-07-2025 03:08] Kamera berganti menjadi Iriun Webcam
-[04-07-2025 03:16] Kamera dihidupkan
-[04-07-2025 03:16] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Shubuh
-[04-07-2025 03:16] Objek teridentifikasi melakukan Sujud
-[04-07-2025 03:16] Objek teridentifikasi melakukan Duduk
-[04-07-2025 03:16] Objek teridentifikasi melakukan Sujud
-[04-07-2025 03:16] Objek teridentifikasi melakukan Berdiri
-[04-07-2025 03:16] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Shubuh
-[04-07-2025 03:16] Objek teridentifikasi melakukan Berdiri
-[04-07-2025 03:17] Objek teridentifikasi melakukan Ruku
-[04-07-2025 03:17] Objek teridentifikasi melakukan Sujud
-[04-07-2025 03:17] Objek teridentifikasi melakukan kesalahan pada gerakan yang seharusnya Berdiri
-[04-07-2025 03:18] Kamera dihidupkan
-[04-07-2025 03:18] Objek teridentifikasi melakukan ruku setelah berdiri, pertanda melaksanakan salat Isya
-[04-07-2025 03:18] Objek teridentifikasi melakukan Sujud
-[04-07-2025 03:18] Objek teridentifikasi melakukan Duduk
-[04-07-2025 03:19] Objek teridentifikasi melakukan Sujud
-[04-07-2025 03:19] Objek teridentifikasi melakukan Berdiri
-[04-07-2025 03:19] Objek teridentifikasi telah menyelesaikan rakaat ke-1 pada salat Isya
-[04-07-2025 03:19] Objek teridentifikasi melakukan Berdiri
-[04-07-2025 03:19] Objek teridentifikasi melakukan Ruku
-[04-07-2025 03:19] Objek teridentifikasi melakukan Sujud
-[04-07-2025 03:19] Objek teridentifikasi melakukan kesalahan pada gerakan yang seharusnya Berdiri
