@@ -56,5 +56,10 @@ def check_true(salat, gerak_now, rakaat_now, runtutan, gerak_curr):
             gerak_next = rukun_now[rakaat_now][len(runtutan)]
         else:
             kebenaran = False
+            
+    if rakaat_now == rakaat_dict.get(salat):
+        end = True
+    else:
+        end = False
 
-    return rakaat_now, runtutan, kebenaran, gerak_curr, gerak_next, cetak, cetak2, rukun
+    return rakaat_now, runtutan, kebenaran, gerak_curr, gerak_next, cetak, cetak2, rukun, end

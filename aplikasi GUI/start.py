@@ -403,7 +403,7 @@ class Start(tk.Frame):
                     print(f"Runtutan : {self.runtutan}")
                     print("END")
                     if not self.runtutan[-1] == gerakan[label_index]:
-                        rakaat, runtut, kebenaran, curr, next, cetak, cetak2, rukunn = check_true(self.salat_time, gerakan[label_index], self.rakaat_now, self.runtutan, self.gerak_curr)
+                        rakaat, runtut, kebenaran, curr, next, cetak, cetak2, rukunn, selesai = check_true(self.salat_time, gerakan[label_index], self.rakaat_now, self.runtutan, self.gerak_curr)
                         self.rakaat_now = rakaat
                         self.runtutan = runtut
                         self.gerak_curr = curr
@@ -446,6 +446,19 @@ class Start(tk.Frame):
                                     self.runtutan.pop()
                                 self.yakin = True
                                 time.sleep(3.8)
+                        
+                        if selesai:
+                            self.log("Objek selesai melakukan salat")
+                            self.rakaat_now = 0
+                            self.runtutan = []
+                            self.gerak_curr = ""
+                            self.kebenaran = False
+                            self.nampak = True
+                            self.salah_first = True
+                            self.transisi = False
+                            self.rukun = 1
+                            self.mulai = True
+                            self.yakin = False
             
             # Ambil ukuran aktual dari self.cam
             cam_width = self.cam.winfo_width()
