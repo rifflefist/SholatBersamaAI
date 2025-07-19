@@ -272,7 +272,10 @@ class Setting(tk.Frame):
         if self.listbox_hour.curselection():
             pilihan_hour = self.listbox_hour.get(self.listbox_hour.curselection())
             self.pilihan_hour.set(pilihan_hour)
-            _, min = self.time_setting.split(":")
+            if self.time_setting == "auto":
+                _, min = get_time()
+            else:
+                _, min = self.time_setting.split(":")
             self.time_setting = f"{pilihan_hour}:{min}"
             self.dropdown_hour.config(text=pilihan_hour)
             self.listbox_hour.grid_forget()
@@ -281,7 +284,10 @@ class Setting(tk.Frame):
         if self.listbox_min.curselection():
             pilihan_min = self.listbox_min.get(self.listbox_min.curselection())
             self.pilihan_min.set(pilihan_min)
-            hour, _ = self.time_setting.split(":")
+            if self.time_setting == "auto":
+                hour, _ = get_time()
+            else:
+                hour, _ = self.time_setting.split(":")
             self.time_setting = f"{hour}:{pilihan_min}"
             self.dropdown_min.config(text=pilihan_min)
             self.listbox_min.grid_forget()
