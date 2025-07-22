@@ -379,7 +379,6 @@ class Start(tk.Frame):
             
             if len(prediksi[0]) > 1 and np.max(prediksi) > 0.79:
                 label_index = np.argmax(prediksi)
-                print(f"Terdeteksi : {gerakan[label_index]}")
                 if len(self.runtutan) in trans:
                     self.transisi = True
                 else:
@@ -398,10 +397,6 @@ class Start(tk.Frame):
                         else:
                             self.log("Objek teridentifikasi melakukan gerakan ruku")
                 else:
-                    print(f"Gerak terdeteksi : {gerakan[label_index]}")
-                    print(f"Yakin : {self.yakin}")
-                    print(f"Runtutan : {self.runtutan}")
-                    print("END")
                     if not self.runtutan[-1] == gerakan[label_index]:
                         rakaat, runtut, kebenaran, curr, next, cetak, cetak2, rukunn, selesai = check_true(self.salat_time, gerakan[label_index], self.rakaat_now, self.runtutan, self.gerak_curr)
                         self.rakaat_now = rakaat
@@ -441,7 +436,6 @@ class Start(tk.Frame):
                                 self.log(f"Objek teridentifikasi melakukan kesalahan pada rakaat ke-{self.rakaat_now+1}, yaitu gerakan {next} teridentifikasi {gerakan[label_index]}")
                                 self.yakin = False
                             elif not self.yakin:
-                                print(f"Padahal yakinnya {self.yakin}, tapi masuk")
                                 if self.kebenaran and len(self.runtutan) > 1:
                                     self.runtutan.pop()
                                 self.yakin = True
